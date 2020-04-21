@@ -71,7 +71,6 @@ const ContentBody = styled.div`
 
   & > blockquote p {
     margin: 0.8em 0;
-    font-style: italic;
   }
 
   & .gatsby-highlight {
