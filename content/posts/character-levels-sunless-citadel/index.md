@@ -55,8 +55,26 @@ So in practice, pretty much everyone --- including official published modules, i
 >He had his paper analogue, but he still needed ink. With one last, choice curse (it was Orc, and it wouldn't translate, so don't ask) he bit deeply into the skin of his right index finger.
 >
 >How long had he been unconscious? Eight hours? More? Wincing with pain, he frantically scrawled the mystic words of power that were the keys to <em>Benign Transposition</em> and <em>Shatter</em> on his arm. The blood ran and spread, but it would do for now. It would have to.
+>
+> --- <cite>https://www.fanfiction.net/s/8096183/25/Harry-Potter-and-the-Natural-20</cite>
 
+Jokes aside...really, why not? Even if training time happens in-universe, nobody ever plays out training time in actual gameplay anyway. We can just assume that all the proper foreshadowing for Harry Potter learning a Summoning Charm was done at some point. We can draw an analogue to the marching order of an adventuring party --- how any given character is training in their downtime is something you theoretically know and have stuffed in the campaign notes somewhere, but never bother to think about until it suddenly becomes relevant.
 
+This simply amounts to a tendency towards one way of introducing new character capabilities over another. When Harry Potter learns the Summoning Charm, it's heavily telegraphed exactly when he is going to need it and when he is going to master it. But when Harry Potter learns the Disarming Charm --- his future signature spell --- it's introduced in a context that vaguely suggests learning, and then it's suddenly sprung on the reader when Harry unexpectedly uses it, having mastered it offscreen. The <em>process</em> of learning the Disarming Charm wasn't deemed interesting enough to include in the story --- only the first successful use of it was.
+
+Ironically, in D&D, "wizards" are unique in that learning new spells <em>does</em> get screentime, while all other classes improve their skills offscreen. The process of wizards acquiring new spells isn't similar to how other classes train, but is similar to the process of identifying magic items for use, such as a rogue figuring out what kind of spell is stored in a wand. A topic for another time.
+
+This is one instance of the general principle that if nothing interesting is happening, there's no point dwelling on it.
+
+> The GM cuts away from the house and decides to open the next scene.
+>> GM: You're sitting at a red light on the corner of Chicago and Franklin. What are you doing?
+>>
+>> Player: I wait for the light to turn green.
+>>
+>> GM: The light turns green. You continue driving downtown.
+> End of scene. Without an agenda --- without some reason for focusing on the events at Chicago and Franklin --- that was clearly a pointless waste of time. Fortunately, this GM at least had the common sense to cut the scene off and move on. Sometimes you'll see neophyte GMs continue to linger in these sorts of pointless exchanges for painfully long periods of time.)
+>
+> --- https://thealexandrian.net/wordpress/31520/roleplaying-games/the-art-of-pacing-part-2-scene-framing
 
 
 
