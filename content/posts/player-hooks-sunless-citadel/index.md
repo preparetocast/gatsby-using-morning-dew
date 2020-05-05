@@ -51,6 +51,8 @@ The latter player motivators *are* directly related to character motivators:
 
 The adventure needs to provide a narrative structure that can work for *all* the characters. It needs NPCs to serve as the secondary cast for the main characters to play off of. NPCs can also be the proximate motivators for action, because nation-building is all well and good but we need *particular* farmers to talk to about the boar destroying their fields.
 
+It's this last that drives the need for *character* hooks. For each PC, we need to know why they get involved at all, what they expect to get out of it. (We should also have a *rough* idea what they will *actually* get out of it in terms of their character arc, but obviously that's hard to know in advance. If we knew exactly how the characters were going to develop, we wouldn't need to actually play the games.)
+
 
 
 [^challenge]: [The Angry GM calls mastery "challenge"](https://theangrygm.com/how-to-motivate-a-bunch-of-lying-liars/), but I hate that term. A version of the game in which you had to eat a pinecone every time you rolled a die would be more *challenging*, but good luck finding players who would prefer that game.

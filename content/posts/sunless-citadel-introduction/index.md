@@ -11,9 +11,9 @@ tags:
 1.    [Experience points and character levels](/sunless-citadel-character-levels)
 1.    [The main villain and his undead tree](/sunless-citadel-adventure-background)
 1.    [Secondary villains and the introductions thereof](/sunless-citadel-adventure-synopsis)
-1.    Why people play games
-1.    Character Hooks
-1.    Rescue Mission
+1.    [Why people play games](/sunless-citadel-player-hooks)
+1.    [Character Hooks](/sunless-citadel-character-hooks)
+1.    [Rescue Mission](/sunless-citadel-character-hooks-rescue-mission)
 1.    Mysterious magic fruit
 1.    Phobias that characters might want cured
 1.    Other mental illnesses that characters might want cured
