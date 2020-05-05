@@ -5,6 +5,7 @@ import Wrapper from '../components/Wrapper'
 import Hero from '../components/Hero'
 import Article from '../components/Article'
 import PrevNextPost from '../components/PrevNextPost'
+import { Link } from 'gatsby'
 import SEO from '../components/SEO'
 import Disqus from '../components/Disqus'
 
@@ -31,9 +32,35 @@ class BlogPostTemplate extends React.Component {
           title={post.frontmatter.title}
         />
 
+        <>
+          {previous && (
+            <Link to={previous.frontmatter.slug}>
+              {'<'} {previous.frontmatter.title}
+            </Link>
+          )}
+          {next && (
+            <Link to={next.frontmatter.slug}>
+              {next.frontmatter.title} {'>'}
+            </Link>
+          )}
+        </>
+
         <Wrapper>
           <Article post={post} />
         </Wrapper>
+
+        <>
+          {previous && (
+            <Link to={previous.frontmatter.slug}>
+              {'<'} {previous.frontmatter.title}
+            </Link>
+          )}
+          {next && (
+            <Link to={next.frontmatter.slug}>
+              {next.frontmatter.title} {'>'}
+            </Link>
+          )}
+        </>
 
         <Wrapper>
           <Disqus slug={post.frontmatter.slug} title={post.frontmatter.title} />

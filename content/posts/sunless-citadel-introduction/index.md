@@ -9,8 +9,8 @@ tags:
 
 1.    [Introduction](/the-sunless-citadel)
 1.    [Experience points and character levels](/sunless-citadel-character-levels)
-1.    The main villain and his undead tree
-1.    Secondary villains and the introductions thereof
+1.    [The main villain and his undead tree](/sunless-citadel-adventure-background)
+1.    [Secondary villains and the introductions thereof](/sunless-citadel-adventure-synopsis)
 1.    Why people play games
 1.    Character Hooks
 1.    Rescue Mission
@@ -66,6 +66,8 @@ I'm going to quote liberally from Twenty-Sided Tale's statement of philosophy on
 > --- [Twenty-Sided Tale](https://www.shamusyoung.com/twentysidedtale/?p=44329)
 
 This should probably go without saying, but this entire series will be riddled with spoilers.
+
+## <a name="sunless-citadel-overview"></a> Sunless Citadel Overview
 
 The basic elements of The Sunless Citadel are:
 

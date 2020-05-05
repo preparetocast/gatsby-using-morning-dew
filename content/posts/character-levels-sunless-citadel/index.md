@@ -1,6 +1,7 @@
 ---
 title: Character Levels
 slug: sunless-citadel-character-levels
+previous: sunless-citadel-introduction
 date: 2018-11-24
 tags:
   - Sunless Citadel

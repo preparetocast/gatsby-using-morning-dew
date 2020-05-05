@@ -77,10 +77,24 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     })
   })
 
+  // We manually specify the predecessor post for each post,
+  // and then infer the successor post for each post.
+  posts.forEach((post, index, posts) => {
+    if (post.node.frontmatter.previous) {
+      posts.forEach((prevpost) => {
+        if (prevpost.node.frontmatter.slug == post.node.frontmatter.previous && !prevpost.node.frontmatter.next) {
+          prevpost.node.frontmatter.next = post.node.frontmatter.slug
+        }
+      })
+    }
+  })
+
   // generate blog posts
   posts.forEach((post, index, posts) => {
-    const previous = index === posts.length - 1 ? null : posts[index + 1].node
-    const next = index === 0 ? null : posts[index - 1].node
+    const previousByDate = index === posts.length - 1 ? null : posts[index + 1].node
+    const previous = post.node.frontmatter.previous ? post.node.frontmatter.previous : previousByDate
+    const nextByDate = index === 0 ? null : posts[index - 1].node
+    const next = post.node.frontmatter.next ? post.node.frontmatter.next : nextByDate
 
     createPage({
       path: post.node.frontmatter.slug,
