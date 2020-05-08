@@ -81,6 +81,8 @@ Sure, the goblins have "recently" been attacked and are currently under siege...
 
 Of course, there is more to this story. It's just that for some reason it's gated behind a willingness to spend 1d4+1 hours in a bar trolling for rumors.
 
+## <a name="durbuluks-raided-road"></a> The Durbuluks have been raiding the Oakhurtians (!)
+
 > The Old Road ran right past the nearby ruins (the Sunless Citadel), but fell into disuse because of goblin banditry. No one knows for sure what the Sunless Citadel once was, but old legends hint that it served as the retreat of an ancient dragon cult.
 > The Old Road also skirts the Ashen Plain, a lifeless...
 >
