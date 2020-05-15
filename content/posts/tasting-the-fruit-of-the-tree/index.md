@@ -37,9 +37,52 @@ You might be forgiven for having doubts at this point as to whether the townsfol
 
 [Letting players know about the goblins' predations](/sunless-citadel-adventure-synopsis#durbuluks-raided-road) helps with *that* problem. But we're still left with the question: if the goblins can raid Oakhurst whenever they want, why *don't* they? It's hard to ignore this question when the starting character hook draws attention to it.
 
-We can't give Oakhurst walls, because what's actually happening is that the saplings are walking away on their own, and a wall would stop that. (Unless we give the twig blights the ability to climb walls. *Vampires* have the ability to climb walls. Food for thought.)
+We can't give Oakhurst walls, because what's actually happening is that the saplings are walking away on their own, and a wall would stop that.
+(Unless we give the twig blights the ability to climb walls. *Vampires* have the ability to climb walls. Food for thought.)
 
+There could be a standoff between the Oakhurstians and the Durbuluks --- raiding commerce wasn't enough to overcome the Oakhurstians' natural cowardice, but if the Durbuluks attacked them directly, they'd come together and make war. The Oakhurstians do outnumber the Durbuluks nine to one, and the Durbuluks do live in a ravine. Numbers don't do much good in a dungeon, but the Oakhurstians could probably set up an unassailable position atop the cliff and starve the goblins out.
 
+Another option, which doesn't solve the problem but does make it less noticeable, is to emphasize that people plant the seeds out in the wilderness in hidden locations, and what the townsfolk wonder is how the goblins are able to *find* the saplings to steal them every time.
+
+I don't have a great solution here. In any case, there's still the matter of the PCs' actual interest in the fruit. Why do *they* care?
+
+> You are interested in piercing the mystery associated with how wretched goblins could ever possess such a wonder, and how they steal every sprouting sapling grown from the enchanted fruit's seed. Moreover, you wish to find this rumored tree of healing, hoping to heal an ailing friend or relative.
+>
+> --- <cite>The Sunless Citadel, page 3</cite>
+
+That first bit seems like a poor choice for a hook, given that if a player does bother to ask how wretched goblins could ever possess such a wonder, the only answer they will ever find is "the goblins moved into a dungeon and it happened to be there."
+
+The healing as a character goal, however, is fantastic. Because it's very versatile, but at the same time, the conceit of exactly one fruit per year means that you're not introducing a disruptive fountain of healing into the campaign world.
+
+BUT. We also want to foreshadow the Dark Secret of the healing, preferably *immediately*, in the hook itself.
+
+Just as we want the players to have some idea that they won't actually be able to rescue Talgen and Sharwyn, we want the players to have some idea that there's something wrong with this fruit. Otherwise, the climax will fail to land. ("It's an evil vampire tree? Wut?")
+
+Fortunately, we ought to be able to use genre conventions to plant the idea in the players' minds that the miracle fruit will inevitably turn out to have a Dark Secret.
+
+> You think I'm jesting when I speak of an Art of the Predictable, but if you think about it it is an art...
+>
+> After you've seen enough 50s SF films on the box, you come to expect the professor's Faustian dabblings to destroy him in the end, while the young journalist hero clasps the daughter as they gaze on the smouldering wreckage of the laboratory. ("Oh Rick, it's --- horrible...." --- "It's all right, Jean, it's over now. The nightmare is over forever.")
+>
+> [<cite>Ansible 46, July 1986</cite>](https://news.ansible.uk/plotdev.html)
+
+But we'll get into the foreshadowing more when we get to the rumors heard in [Ye Olde Fantasie Taverne](https://allthetropes.fandom.com/wiki/Ye_Olde_Butcherede_Englishe). (I will say now that I don't think the saplings disappearing, as mentioned in this hook, is enough foreshadowing on its own. The poisonous winter apples are no-shows in the hook, which seems like a questionable decision.)
+Right now we're talking about hooking characters, and the big advantage an introductory adventure has is that you can create characters specifically to fit the hooks.
+
+Pretty much any character concept has room for "an ailing friend or relative", but one thing you can *only* do when creating a character for this adventure is to give the PC an ailment to be cured --- something *noticeable* that will come up in the course of the adventure, but that isn't crippling enough to prevent them from successfully completing the adventure.
+
+Obviously not all players will want an ailment, but if one does, it's good to have a list of ailments that the apple can heal. In-universe, of course, the character doesn't know for sure exactly what the apple can heal...but imagine what an anticlimax it would be if it turned out the apple couldn't heal them. So out-of-universe, whatever is wrong with them, the apple is in fact going to heal it.
+
+The module does specify exactly what the apple does: it duplicates the effect of the Heal spell [Sunless Citadel page 28]. Thus, the rules effectively give us a list of suggested ailments that could be used as motivation.
+
+It's not a short list. After years of writers of various books dreaming up horrible conditions that can afflict characters and defaulting to Heal as a catch-all "if you don't know what cures it, it's probably Heal", there's a variety to choose from. Many are too crippling for a player character to plausibly go on an adventure with, but a few are suitable for adventuring:
+
+- Memory loss due to pixie arrows [Monster Manual page 236]
+- Severe phobias [Heroes of Horror page 62]
+- The insanity caused by an obyrith's form of madness [Fiendish Codex I page 28]
+- Transformation by aboleth slime [Monster Manual page 8]
+- Interrupted transformation into an ophidian [Fiend Folio page 134]
+- Despondency caused by an experimental elixer from a Mad Botanist
 
 
 
