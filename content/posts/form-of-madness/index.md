@@ -256,8 +256,141 @@ But it could be worse.
 >
 > --- <cite>Fiend Folio page 63</cite>
 
+[![ethereal ooze](./EtherealOoze.jpg "Ethereal Ooze")](http://archive.wizards.com/default.asp?x=dnd/ag/20030409a)
+
 An ethereal ooze cannot harm creatures on the Material Plane, but it can forcibly drag them to the Ethereal Plane --- where it devours them.
 
+An ethereal ooze is bad enough on its own, but it is, thankfully, completely unintelligent. A region known to be haunted by an ethereal ooze can simply be avoided --- treating the ooze like a living natural disaster --- or, if it comes near people, it can be carefully "led" away, since it moves slowly and predictably.
+
+Traveling dream dwarves maintain maps of the locations of ethereal oozes for anyone who cares to look --- ethereal creatures can hide from dream dwarves' Dream Sight inside material objects, but ethereal oozes don't even think to try.
+
+> Dream Sight (Su): A dream dwarf can see ethereal creatures as easily as she sees material creatures and objects. A dream dwarf can easily distinguish between ethereal creatures and material ones, because ethereal creatures appear translucent and indistinct.
+>
+> --- <cite>Races of Stone, page 89</cite>
+
+But since demonic possession is not a mind-affecting effect, it works on nonintelligent targets --- in fact, the chances of an ooze succeeding on its Will save are slim. And the demon can use the ethereal ooze much more effectively, hiding inside material objects and ambushing particular targets. Most targets it attacks will die --- the process of dragging a target to the Ethereal Plane shuttles them physically through the ethereal ooze, which both physically crushes them and sears them with acid in the process --- but while the demon usually enjoys the carnage, they doesn't mean they won't take advantage of the situation if by chance someone survives. The victim, once on the Ethereal Plane, can be possessed by the demon --- abandoning the ethereal ooze means it will pursue the closest creature, but since the ooze is not invisible on the Ethereal Plane, it can be escaped via the well-known "leisurely stroll" technique. The victim is usually not in a position to resist demonic possession --- but is usually also not able to leave the Ethereal Plane. Unless, of course, they make a deal with a xill.
+This is why xills have their unfortunate tendency to murder anyone who shows up claiming to have been stranded on the Ethereal Plane by a magical accident: xills assume any such person to be a demonic pawn.
+
+But it could be worse.
+
+In fact, it *is* worse. Because the Ethereal Plane is also populated by ether scarabs --- small, shy, inoffensive creatures that just happen to be able to rip holes in reality.
+
+[![ether scarab](./etherscarab.jpg "These things, remember?")](http://archive.wizards.com/default.asp?x=dnd/ag/20020816a)
+
+An ether scarab is relatively useless to a demon as a way to get the the Material Plane --- an ether scarab can rip a hole from the Ethereal Plane to the corresponding location on the Material Plane, but after passing through, the demon cannot move about, so it's stuck in the body of a beetle the size of a housecat, which is not something most demons consider a good time.
+
+But if, instead, a demon forces an ether scarab to rip a hole in reailty from the Ethereal Plane to the Abyss...well, then it reaches a random location in the Infinite Layers of the Abyss, probably nowhere near the possessing fiend's body. But something *else* can come through. Whatever happens to be there, Large or smaller, and able and willing to jump through the planar rip before it closes in 1d4+1 rounds. And the possessed ether scarab can immediately let them into the Material Plane --- assuming the poor beetle isn't instantly killed by their mere presence. Some of the worst demons do that, like golothomas.
+
+Often, nothing comes. Sometimes it's something harmless. But sooner or later, a possessed ether scarab will open a portal to a part of the Abyss where unimaginably terrible creatures dwell. It is inevitable.
+
+In the meantime, the sightings of ether scarabs letting various minor demons into the Material Plane leads to drives to exterminate the beetles once and for all. Which is...practically impossible, since they live on the Ethereal Plane and don't need to eat, but it serves as a handy rallying cry for butchering people who have cool things you don't have. Waging war on a kingdom that uses ether scarabs almost requires the aid of xills, but the xills will be all for it, since wiping out ether scarabs reduces the alternatives to making deals with xills, and thus increases the xill's negotiating leverage.
+
+But what if a xill runs into a demon in the Ethereal Plane?
+
+Xill communities stockpile magic cold iron weapons, but it's very difficult to track someone down in the Ethereal Plane. Mostly, you just run across someone unexpectedly and have to make a snap decision. And if that someone is a powerful demon, a xill's snap decision is often to flee to the Material Plane.
+
+Draudnus certainly qualify to be fiends of possession. And unlike other obyriths, a draudnu doesn't need to be observed to disturb minds.
+
+So a character living in a kingdom known or rumored to cut deals with xills wakes in the middle of the night to see a xill standing over them...and since they're already affected by draudnu madness in that moment, they immediately become convinced they're carrying xill young.
+
+#### Red slaad
+
+After all the complications explaining tirbanas and xills and their place in society, red slaadi are comparatively straightforward: they have no place in society whatsoever.
+
+> Weakest of the slaadi, the reds wander about individually, often establishing secret lairs on other planes. Most seek to escape from the other more powerful and sometimes cruel slaadi.
+>
+> --- <cite>Monster Manual page 229</cite>
+
+Slaadi are rarely found on the Material Plane, but unlike tirbanas or xills, slaadi are likely to abandon the host alive.
+
+> Often the slaad implants an unconscious or otherwise helpless creature (which gets no saving throw). The egg gestates for one week before hatching into a blue slaad that eats its way out, killing the host.
+>
+> --- <cite>Monster Manual page 229</cite>
+
+Red slaadi have no native ability to render people unconscious, except by knocking them out just as a human can. But a red slaad can also implant an egg with a claw attack. A red slaad's claw attack deals 1d4+2 points of damage...which is technically survivable. A red slaad might idly bat a character aside without thinking twice about it, never realizing how the character would obsess on that moment later.
+
+A character might get scratched by a red slaad and come within 60 feet of a draudnu sometime later, and only then become convinced they've been implanted with an egg.
+
+#### No cure for draudnu delusion
+
+Parasitic eggs, whether from a tirbana, xill, or slaad, can be easily killed by a Remove Disease spell from a 3rd-level Healer. We'll talk more about demographics when we get to talking about Oakhurst, but a 3rd-level Healer isn't *that* hard to find, though they are rare enough that their services are expensive --- one Remove Disease costs as much as ten healthy oxen.
+Xill or slaad eggs can also be removed much more affordably with a mundane DC 25 Heal check, though it's a painful procedure and dangerous in its own right, dealing 1d4 points of damage with each attempt.
+
+But no matter what care they receive, a character suffering from draudnu madness continues to believe that something is growing inside them. They may have insisted on repeating Heal checks almost to the point of killing themselves, convinced that each attempt was failing. They may have denounced a "Healer" as a charlatan, but upon finding another Healer they got the same result. (For 150gp per attempt, so if a character really did try this, they must have had a supply of money at first, though they're now spent almost all of it.)
+
+A character suffering from draudnu madness doesn't want to be cured of their madness, because they don't believe it *is* madness. Rather, they hope that an apple that can cure *anything* might succeed where other attempts failed. They might postulate that what is growing inside them has enough psychic power to protect itself against a low-level Healer. In fact, there is one parasite for which that is *true*. Mind flayers reproduce by inserting tadpoles into the ears of humanoids. The tadpole grows as it devours its host's brain, until its tentacles emerge from the skull and it puppets the body. Mind flayer tadpoles are immune to Remove Disease.
+
+When confronted with other evidence, such as the fact that it's been six months and *surely a growing tirbana would have killed them by now*, they may decide that obviously *this* tirbana is different. Or they may attribute their survival to elaborate (nonfunctional) rituals they perform daily.
+
+One complication is that it might actually be pretty hard to complete a first-level adventure while sickened.
+[A sickened character takes a -2 penalty on all attack rolls, weapon damage rolls, saving throws, skill checks, and ability checks.](http://www.d20srd.org/srd/conditionSummary.htm#sickened)
+At first level, that's pretty serious, possibly too much for a character to still be effective in the adventure, unless they're a pure spellcaster. But if we're postulating that a character had the bad luck to run across a draudnu, it's perfectly fair to also assume they had the good luck to already receive some help from a 5th-level cleric.
+
+> Remove nausea restores to health a creature who is nauseated or sickened. Remove nausea cures only the nausea or sickening effect, not disease, poison, or any other effects [such as the delusional belief that something is growing inside them].
+>
+> --- <cite>Book of Exalted Deeds, page 105</cite>
+
+The sickened condition caused by draudnu madness "is permanent until the insanity is cured". That's a statement of duration; the sickening lasts as long as the insanity lasts. It doesn't mean that the sickening has any special protection against being removed by magic that can normally remove the sickened condition. Of course, the spell cures only the sickening effect, not the delusional belief.
+
+## Golothoma
+
+A golothoma has no mouth. It feeds by absorbing flesh through its writhing shadow, which moves independently of the golothoma and devours every living creature within fifteen feet.
+
+[![Ethereal Marauder](https://66.media.tumblr.com/83eb734529487655fb753ae9f68b80bc/tumblr_inline_ovenzu7kmm1tu9l0v_500.png "These things, remember?")](https://dicecast.tumblr.com/post/120846110689/types-of-demons-part-1)
+
+A golothoma isn't something you can really encounter and live to tell the tale, but it might be briefly glimpsed through an ephemeral portal to the Plane of Shadow.
+(A character on the Ethereal Plane could see a golothoma on the Material Plane, but since golothomas are associated with the Plane of Shadow, it seems a shame not to use that.)
+
+As befits a more powerful obyrith, horror crosses over into a...fascination.
+
+> Form of Madness (Su) A creature within 60 feet that observes a golothoma must attempt a DC 27 Will save. Failure indicates the victim develops an unhealthy obsession with shadows and shadowy illumination.
+Whenever the creature is in darkness or bright illumination, its distraction and discomfort sickens it, imposing
+a -2 penalty on attack rolls, weapon damage rolls, saving throws, skill checks, and ability checks. In addition, it must make a DC 15 Concentration check to cast spells.
+> Its reflexive desire to accept shadow causes it to take a -4 penalty on saving throws against spells of the shadow subschool...Shadows and other creatures from the Plane of Shadow gain a +4 bonus on attack rolls against such a creature.
+>
+> --- <cite>Elder Evils pages 118--119</cite>
+
+> Mal: That poor bastard you took off my ship. He looked right into the face of it --- was made to stare.
+>
+> Harken: "It"?
+>
+> Mal: That darkness. Kind of darkness you can't even imagine. Blacker than the space it moves through.
+>
+> Harken: Very poetic.
+>
+> Mal: They made him watch. He probably tried to turn away, and they wouldn't let him. You call him a survivor? He's not. A man comes up against that kind of will, the only way to deal with it, I suspect, is to become it. He's following the only course left to him. First, he'll try to make himself look like one. Cut on himself, desecrate his flesh and then, he'll start acting like one.
+>
+> --- <cite>Bushwhacked</cite>
+
+Remove Nausea is of little use in this case, since it only works instantaneously --- unlike draudnu madness, which sickens you once permanently, golothoma madness sickens you every time you find yourself in darkness or bright illumination.
+
+Golothoma madness can be a good way for new players to learn the rules about light sources. You definitely want only one such character in a party, because more would be too much of a headache. They need to have a light source close enough to see where they're putting their feet, but not so close that it sickens them.
+
+## Ekolid
+
+[![Ethereal Filcher](./ekolid.jpg "Ekolid")](https://www.pinterest.com/pin/310959549265910148/)
+
+An ekolid is an insectoid demon. Ekolids are the least powerful known obyriths. After exotica like the draudnu and golothoma, ekolid madness sounds almost like a mundane traumatic flashback. Except, it causes formication.
+
+> Form of Madness (Su) A creature within 60 feet that observes an ekolid must attempt a DC 14 Will save. Failure indicates the creature begins hallucinating that tiny biting insects are infesting its hair, skin, and clothes. The victim takes a -1 penalty on skill checks and must succeed on a DC 10 Concentration check in order to cast any spells.
+>
+> --- <cite>Fiendish Codex I, page 38</cite>
+
+Ekolid madness is usually minor enough to live with for the duration of the adventure.
+
+Unlike draudnu madness, ekolid madness does not cause delusions, only hallucinations. The character may have initially torn up their flesh in a desperate struggle to find and remove the insects, but by the time the adventure starts, they know the problem is in their head.
+
+Ekolids reproduce *very quickly*. Like tirbanas, xills and slaadi, they implant eggs in other creatures, but the eggs hatch in just a few *seconds*, and grow to adulthood in a few hours. Any ekolid that found its way to the Material Plane would soon consume everything for miles around.
+
+However, an ekolid fiend of possession might be physically trapped while its spirit wanders independent of its body, possessing unlucky passersby and warping their bodies to resemble the ekolid (but lacking its power). Ekolids do not actually *need* to eat, so an ekolid could remain trapped somewhere for a long time.
+
+(The "trapped fiend of possession" angle could also explain surviving an encounter with a golothoma --- golothomas can burrow through earth, but not solid stone, and a golothoma drips shadowy acid but this acid harms only creatures, not objects. But since golothomas are associated with the Plane of Shadow, it seems a shame not to use that.)
+
+Of course, anyone transformed physically into an ekolid would have to be killed quickly to prevent the ekolid from spawning.
+
+## For DMs
+
+If a PC has golothoma madness, it would be good to come up with an expanded role for the unexplained shadow late in The Sunless Citadel.
 
 
 
