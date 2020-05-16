@@ -80,9 +80,40 @@ It's not a short list. After years of writers of various books dreaming up horri
 - Memory loss due to pixie arrows [Monster Manual page 236]
 - Severe phobias [Heroes of Horror page 62]
 - The insanity caused by an obyrith's form of madness [Fiendish Codex I page 28]
+- The permanent fear caused by hearing many souls cry out in terror and be suddenly silenced [[Random Encounters, "Nasty Surprises"](http://archive.wizards.com/default.asp?x=dnd/re/20040216a)]
 - Transformation by aboleth slime [Monster Manual page 8]
 - Interrupted transformation into an ophidian [Fiend Folio page 134]
-- Despondency caused by an experimental elixer from a Mad Botanist
+
+Others are suitable for an ailing friend or relative:
+- Despondency caused by an experimental elixer from a Mad Botanist [[Adventure Locales, "Despair on Tap"](http://archive.wizards.com/default.asp?x=dnd/al/20040707a)]
+- Weakness and muddled thinking caused by a Robe of Powerlessness [Dungeon Master's Guide Chapter 7 Magic Items]
+- Inhabitation by a tsochar, if the victim is too fragile to survive other methods of removal [Lords of Madness Chapter 7, The Weavers of Flesh]
+- Ceremorphosis (use with caution; this adds a strict time limit) [Lords of Madness Chapter 4, The Mind Flayers]
+- Transformation into a yuan-ti tainted one (this has a gentler time limit of a week-ish) [Serpent Kingdoms page 18]
+- Debauchery of the bacchae [Fiend Folio page 19]
+- Feeblemindedness caused by a braxat [Monster Manual II page 38]
+- Feeblemindedness caused by a nalfeshnee fiend of possession transformer [Fiendish Codex I page 25]
+- Erratic behavior caused by a Symbol of Insanity carelessly left by a gynosphinx [Monster Manual page 234]
+
+One apple splits into four sections each of which carries a Heal [Sunless Citadel page 28], so multiple characters can have ailments or loved ones with ailments. (Curiously, while the module bends reality to ensure that Kerowyn Hucrele's reward is always 250 gp per PC, it does not do the same here, so if more than four characters want a piece of the fruit then you're going to have problems. It seems like it would make more sense to leave Kerowyn Hucrele's reward static but ensure that the summer fruit yields exactly enough Heals for all the PCs who want one.)
+
+I like to augment this hook with details on options for what a character might want to be cured of.
+
+> Special Arrows (Ex): Pixies sometimes employ arrows that deal no damage but can erase memory...An opponent struck by this arrow must succeed on a DC 15 Will save or lose all memory...The subject retains skills, languages, and class abilities but forgets everything else until he or she receives a heal spell or memory restoration with limited wish, wish, or miracle.
+>
+> --- <cite>Monster Manual page 236</cite>
+
+Amnesia is a hoary old cliche, but it's a hoary old cliche because it's so flexible.
+- Maybe the first thing you remember is a clumsy pixie stammering apologies.
+- Maybe the first thing you remember is an angry pixie yelling "and stay out!"
+- Maybe the first thing you remember is running away because you're terrified of pixies.
+
+Whatever the case, you don't remember your own name or what you were doing, and you need to get your memories back.
+
+The upside of this is that recovered memories can serve as a hook for the next adventure, no matter how unrelated that adventure is to the Sunless Citadel. ("I just remembered --- I found the long-lost forge of Durgeddin the Black! We have to go back there!")
+
+This is the simplest option, since it basically has no effect on gameplay whatsoever. As far as *this* adventure is concerned, it doesn't actually matter whether you don't know any of the locals because you lost your memory or because you're just a newcomer here.
+
 
 
 
