@@ -282,6 +282,8 @@ The ambush comes with some nicely evocative description provided:
 
 Here's the thing: There's no reason for the PCs to travel or camp by night anywhere between Oakhurst and the Sunless Citadel.
 
+### <a name="no-reason-to-walk-old-road-by-night"></a> Why would anyone travel by night?
+
 > The distance between Oakhurst and the Sunless Citadel, via the Old Road, is seven miles. 140 minutes walking...
 >
 > It's a great idea for a first-level module to put the town so close to the dungeon to encourage players to retreat, rest and restock when they're running out of steam. First-level characters are fragile, and you can easily get a total party wipe if they try to push onward.
