@@ -11,6 +11,8 @@ tags:
 >
 > --- <cite>The Sunless Citadel, page 4</cite>
 
+![ravine what is visible from atop](../../images/ravineOrklordCleaned.png)
+
 > The Old Road passes to the east of a narrow ravine...The ravine runs for several miles in either direction, with an average depth and width of 30 feet. At the point where it most closely intersects the Old Road, it widens to 40 feet. It also plunges much deeper into the earth near the pillars described above.
 >
 > --- <cite>The Sunless Citadel, pages 4--5</cite>
