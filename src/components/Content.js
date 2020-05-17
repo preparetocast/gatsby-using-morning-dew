@@ -77,6 +77,16 @@ const ContentBody = styled.div`
     text-align: center;
   }
 
+  & .imageWrapper {
+    position: relative;
+  }
+
+  & .overlayImage {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
   & .gatsby-highlight {
     border-radius: 5px;
     font-size: 15px;
