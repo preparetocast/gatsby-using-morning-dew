@@ -13,7 +13,7 @@ So the rescue mission doesn't stand on its own as a character hook. Rather, it m
 
 What for the other character hook, then?
 
-One obvious answer is simple goblin-slaying. [I criticized the module before](/sunless-citadel-adventure-synopsis) for not building up the goblins as villains. And if we fix that, then defeating the Durbuluks starts to sound like a decent goal on its own. But here, the module has the right idea *not* putting the goblins front-and-center. The [resolution](/sunless-citadel-adventure-background) isn't going to involve the Durbuluks at all; by the end, they'll have been supplanted. Indeed, by the midpoint of the adventure, the Durbuluks will be shattered and their warlord will be dead. We need to look at the *end* of the adventure and start to foreshadow that...even if the characters don't yet know that Belak exists.
+<a name="simple-goblin-slaying-possible-motivation"></a> One obvious answer is simple goblin-slaying. [I criticized the module before](/sunless-citadel-adventure-synopsis) for not building up the goblins as villains. And if we fix that, then defeating the Durbuluks starts to sound like a decent goal on its own. But here, the module has the right idea *not* putting the goblins front-and-center. The [resolution](/sunless-citadel-adventure-background) isn't going to involve the Durbuluks at all; by the end, they'll have been supplanted. Indeed, by the midpoint of the adventure, the Durbuluks will be shattered and their warlord will be dead. We need to look at the *end* of the adventure and start to foreshadow that...even if the characters don't yet know that Belak exists.
 
 We need to introduce the Gulthias tree...without actually seeing it. And this is where we get the payoff for the contrivance of a vampire tree somehow having healing powers.
 
@@ -98,6 +98,8 @@ Others are suitable for an ailing friend or relative:
 One apple splits into four sections each of which carries a Heal [Sunless Citadel page 28], so multiple characters can have ailments or loved ones with ailments. (Curiously, while the module bends reality to ensure that Kerowyn Hucrele's reward is always 250 gp per PC, it does not do the same here, so if more than four characters want a piece of the fruit then you're going to have problems. It seems like it would make more sense to leave Kerowyn Hucrele's reward static but ensure that the summer fruit yields exactly enough Heals for all the PCs who want one.)
 
 I like to augment this hook with details on options for what a character might want to be cured of.
+
+### <a name="pixie-amnesia"></a>  Amnesia
 
 > Special Arrows (Ex): Pixies sometimes employ arrows that deal no damage but can erase memory...An opponent struck by this arrow must succeed on a DC 15 Will save or lose all memory...The subject retains skills, languages, and class abilities but forgets everything else until he or she receives a heal spell or memory restoration with limited wish, wish, or miracle.
 >
