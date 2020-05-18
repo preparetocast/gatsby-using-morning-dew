@@ -69,6 +69,7 @@ module.exports = {
               linkImagesToOriginal: false,
               withWebp: true,
               showCaptions: ['title'],
+              markdownCaptions: true, // not actually working
             },
           },
           { resolve: 'gatsby-remark-prismjs' },
