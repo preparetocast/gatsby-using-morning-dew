@@ -26,6 +26,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
             frontmatter {
               title
               slug
+              previous
               tags
               language
               cover {
@@ -83,7 +84,8 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     if (post.node.frontmatter.previous) {
       posts.forEach((prevpost) => {
         if (prevpost.node.frontmatter.slug == post.node.frontmatter.previous && !prevpost.node.frontmatter.next) {
-          prevpost.node.frontmatter.next = post.node.frontmatter.slug
+          prevpost.node.next_node = post.node
+          post.node.previous_node = prevpost.node
         }
       })
     }
@@ -92,9 +94,12 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   // generate blog posts
   posts.forEach((post, index, posts) => {
     const previousByDate = index === posts.length - 1 ? null : posts[index + 1].node
-    const previous = post.node.frontmatter.previous ? post.node.frontmatter.previous : previousByDate
+    const previous = post.node.previous_node ? post.node.previous_node : previousByDate
+    console.log('gatsby-node.js', post.node.frontmatter)
+    delete post.node.previous_node // otherwise get error Converting circular structure to JSON
     const nextByDate = index === 0 ? null : posts[index - 1].node
-    const next = post.node.frontmatter.next ? post.node.frontmatter.next : nextByDate
+    const next = post.node.next_node ? post.node.next_node : nextByDate
+    delete post.node.next_node
 
     createPage({
       path: post.node.frontmatter.slug,
