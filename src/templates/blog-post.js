@@ -64,7 +64,7 @@ class BlogPostTemplate extends React.Component {
           )}
         </>
 
-        <Wrapper>
+        <Wrapper as="aside">
           <Disqus slug={post.frontmatter.slug} title={post.frontmatter.title} />
         </Wrapper>
 
