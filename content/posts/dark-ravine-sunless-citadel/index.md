@@ -82,5 +82,10 @@ FoundryAtropos made a nice map showing the fires in Area 15, Area 33, and Area 2
 
 So if the PCs hang around until eleven o'clock, they'll likely see smoke coming from near the center of the Citadel, as well as slightly northwest of there. Not that they're likely to hang around until eleven o'clock, but they *can* make a semi-survey of the site if they choose to.
 
+Smoke aside, they can certainly see the outline of the roof.
+
+## Darkvision
+
+Now you have beings that see in "black and white". How much dithering is allowed?
 
 

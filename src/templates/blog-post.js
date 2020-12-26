@@ -34,12 +34,12 @@ class BlogPostTemplate extends React.Component {
 
         <>
           {previous && (
-            <Link to={previous.frontmatter.slug}>
+            <Link to={'../' + previous.frontmatter.slug}>
               {'<'} {previous.frontmatter.title}
             </Link>
           )}
           {next && (
-            <Link to={next.frontmatter.slug}>
+            <Link to={'../' + next.frontmatter.slug}>
               {next.frontmatter.title} {'>'}
             </Link>
           )}
