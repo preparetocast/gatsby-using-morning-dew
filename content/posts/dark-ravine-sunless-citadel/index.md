@@ -84,8 +84,15 @@ So if the PCs hang around until eleven o'clock, they'll likely see smoke coming 
 
 Smoke aside, they can certainly see the outline of the roof.
 
+[![outline of fortress level](../../images/fortressLevelStormkeepShapeOnly.png)](https://stormkeep.tripod.com/sunless_citadel.htm)
+
+(This image originates from Stormkeep, though they might not want to be associated with my mutilated version.)
+
+As for smoke...well, before we go to the trouble of mapping that, we ought to consider whether we really want that.
+
 ## Darkvision
 
-Now you have beings that see in "black and white". How much dithering is allowed?
+
+
 
 
