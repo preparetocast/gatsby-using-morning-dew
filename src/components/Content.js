@@ -87,6 +87,13 @@ const ContentBody = styled.div`
     left: 0;
   }
 
+  & .overlayImage5 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0.5;
+  }
+
   & .gatsby-highlight {
     border-radius: 5px;
     font-size: 15px;

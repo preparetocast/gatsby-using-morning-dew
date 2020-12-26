@@ -24,8 +24,8 @@ What I really want to ask, though, is this: Can the PCs see the roof of the Cita
 Torchlight won't reach that far. But look at the cutaway. At about...eleven o'clock, sunlight briefly streams in through the ravine to the roof of the Citadel. Sunless it ain't.
 
 <div class="imageWrapper">
-  <img class="overlayImage" src="/ravineOrklordCleaned.png"></img>
-  <img class="overlayImage" src="/ravineOrklordSunlight.png"></img>
+  <img src="/ravineOrklordCleaned.png"></img>
+  <img class="overlayImage5" src="/ravineOrklordSunlight.png"></img>
 </div>
 
 Of course, there will be shadows cast by the pillars, but the pillars aren't a solid wall.
