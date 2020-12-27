@@ -482,8 +482,8 @@ That, by itself, isn't a problem to be solved, it's a *concern* to be *managed*.
 
 But if we're going to kill a PC in the first encounter to make a point, we'd better *actually make that point*. A PC should never die in the first encounter unless it is *absolutely clear what they did wrong*.
 
-...always clear what you did wrong: Maybe I overlooked an attack warning, or punched the wrong guy, or failed to stun somebody first.
-
+> ...always clear what you did wrong: Maybe I overlooked an attack warning, or punched the wrong guy, or failed to stun somebody first.
+>
 > But now it's not at all clear what my mistake was or when I made it. Clearly I shouldn't have been in the middle of this attack when that guy punched me, but how could I have avoided that using only the information available at the time?
 >
 > --- <cite>[Shamus Young](https://shamusyoung.com/twentysidedtale/?p=21722)</cite>
@@ -703,13 +703,13 @@ The opposite extreme is more like old-school gaming. As one old-school gamer imp
 The expectation of The Sunless Citadel is somewhere in the middle.
 Basically, take the world *seriously* as a place characters might actually live in. Treat the dungeon like an actual threat to life and limb. Do what you would do if you were actually standing there. *Roleplay.*
 
-Contrast to standard fantasy fiction: The protagonist doesn't succeed by having a plan or being cautius, they succeed by having a righteous cause and having faith in <del>the author</del> a higher power. Often they cannot complete the plot until the sensible strategy has failed them and the desperation move has been invoked.
+Contrast to standard fantasy fiction: The protagonist doesn't succeed by having a plan or being cautious, they succeed by having a righteous cause and having faith in <del>the author</del> a higher power. Often they cannot complete the plot until the sensible strategy has failed them and the desperation move has been invoked.
 
 An example scenario: the mighty sorceress Toyota goes to rescue her daughter, who has been [kidnapped and mind-controlled](https://allthetropes.fandom.com/wiki/Brainwashed_and_Crazy) by the Big Bad Evil Guy.
 Destroying the [mind-control device](https://allthetropes.fandom.com/wiki/Mind_Control_Device) requires blasting through dozens of meters of magically-reinforced Unobtainium, which is of course completely impossible.
 So, naturally, Toyota calls upon a heretofore untapped reserve of inner strength and does just that.
 
-[![dungeon bypass](../../images/nanoha-befriends-a-maze.png "Pictured: [Dungeon Bypass](https://allthetropes.fandom.com/wiki/Dungeon_Bypass)")](https://forum.rpg.net/index.php?threads/rpg-esque-behavior-in-media.465514/page-6#post-10704109)
+[![dungeon bypass](../../images/nanoha-befriends-a-maze.png)](https://forum.rpg.net/index.php?threads/rpg-esque-behavior-in-media.465514/page-6#post-10704109)
 
 Simultaneously, Toyota's sidekick/["bodyguard"](https://allthetropes.fandom.com/wiki/Bodyguarding_a_Badass), Subaru, confronts her older sister, who has *also* been kidnapped and mind-controlled by the BBEG (it's kind of his thing).
 Prior to this point, Subaru has always lived in the shadow of her sister, and never won a single sparring match. So when it turns out that the rescue will require Subaru to defeat her sister in single combat (because of course it will), naturally enough she despairs. But after receiving a pep-talk, she pops up, shrugs off her injuries, and knocks out her sister with one punch.

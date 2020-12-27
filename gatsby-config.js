@@ -70,6 +70,7 @@ module.exports = {
               withWebp: true,
               showCaptions: ['title'],
               // markdownCaptions: true, // not actually working
+              // markdownCaptions does not work with MDX https://github.com/gatsbyjs/gatsby/issues/26882
             },
           },
           { resolve: 'gatsby-remark-prismjs' },
