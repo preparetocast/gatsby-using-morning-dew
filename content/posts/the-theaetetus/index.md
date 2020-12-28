@@ -58,13 +58,11 @@ Other humanoid races are hardly unknown. Oakhurst is a majority human town, but 
 
 People don't necessarily know that goblins are "evil" --- alignment is a whole other can of worms --- but they know that goblins steal livestock in the night, that they'll rob and occasionally murder travelers. Dwarves, who specifically train to fight goblins, probably know of their penchant for ambushes and will evaluate every chamber near a goblin lair for a possible ambush.
 
-Kobolds could be rare and obscure, in some worlds, but let's say for the sake of argument that kobolds are also well-known. In the Sunless Citadel, Yusdrayl certainly acts like people should know what kobolds are: "As all know, kobolds are heir to dragons." Most people know that kobolds are paranoid and territorial to the extreme, that the set traps all around their lairs and don't much care if unwary nonkobold get maimed by them, that they scrupulously maintain a ten-mile buffer of "breathing room" around their lairs in which their patrols attack and capture any travelers, who must then be bought back. Gnomes, who specifically train to fight kobolds, probably also know that kobolds hate sunlight.
+Kobolds could be rare and obscure, in some worlds, but let's say for the sake of argument that kobolds are also well-known. In the Sunless Citadel, Yusdrayl certainly acts like people should know what kobolds are: "As all know, kobolds are heir to dragons." [The Sunless Citadel, page 14] Most people know that kobolds are paranoid and territorial to the extreme, that they set traps all around their lairs and don't much care if unwary nonkobolds get maimed by them, that they scrupulously maintain a ten-mile buffer of breathing room around their lairs in which their patrols attack and capture any travelers, who must then be bought back. Gnomes, who specifically train to fight kobolds, probably also know that kobolds hate sunlight.
 
 Dragons are a thornier question. Dragons are known in some places and not in others. Certainly, regardless of where they grew up, anyone who makes a DC 13 Knowledge (arcana) check identfies a white dragon on sight and knows that they can breathe a cone of icy cold. A higher check result might reveal that they burrow, swim, and climb icy surfaces.
 
 But what about those who don't specifically train in Knowledge (arcana)? If they come from a tribe terrorized by a white dragon, obviously they know a lot, but what if they don't? Do they know general rules like "shiny scales mean good dragons"? It depends on their particular upbringing. Oakhurst locals probably don't know, since there haven't been dragons in this area for a long time.
 
-According to https://www.gatsbyjs.org/docs/working-with-images-in-markdown/, we should be able to include images here:
-
-![Color-Coded for Your Convenience](./oots0207.gif)
+[![Color-Coded for Your Convenience](./oots0207.gif)](https://www.giantitp.com/comics/oots0207.html)
 

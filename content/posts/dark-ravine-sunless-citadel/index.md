@@ -58,6 +58,10 @@ We can assume all cracks are indirect enough that PCs won't see *light* coming o
 >
 > --- <cite>The Sunless Citadel, Area 15</cite>
 
+> A small ember pit in the center of the chamber...around the fire are several small rugs...
+>
+> --- <cite>The Sunless Citadel, Areas 16</cite>
+
 > A permanent camp of sorts lies north of the wall, complete with a fire ring and several small iron cook pots.
 >
 > --- <cite>The Sunless Citadel, Area 33</cite>
