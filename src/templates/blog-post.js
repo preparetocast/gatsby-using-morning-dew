@@ -41,7 +41,7 @@ class BlogPostTemplate extends React.Component {
             </Link>
           )}
           {next && (
-            <Link to={'../' + next.frontmatter.slug}>
+            <Link to={'../' + next.frontmatter.slug} style={{padding: "10px 20px", textAlign: "right"}}>
               {next.frontmatter.title} {'>'}
             </Link>
           )}

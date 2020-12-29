@@ -282,7 +282,7 @@ The ambush comes with some nicely evocative description provided:
 
 Here's the thing: There's no reason for the PCs to travel or camp by night anywhere between Oakhurst and the Sunless Citadel.
 
-### <a name="no-reason-to-walk-old-road-by-night"></a> Why would anyone travel by night?
+### <a id="no-reason-to-walk-old-road-by-night"></a> Why would anyone travel by night?
 
 > The distance between Oakhurst and the Sunless Citadel, via the Old Road, is seven miles. 140 minutes walking...
 >

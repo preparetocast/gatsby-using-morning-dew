@@ -14,19 +14,19 @@ tags:
 1.    [Why people play games](/sunless-citadel-player-hooks)
 1.    [Character Hooks](/sunless-citadel-character-hooks)
 1.    [Rescue Mission](/sunless-citadel-character-hooks-rescue-mission)
-1.    Mysterious magic fruit
-1.    Phobias that characters might want cured
-1.    Other mental illnesses that characters might want cured
-1.    Having your skin replaced with a slimy membrane
-1.    Reversing a botched transformation into a snake
-1.    Character Hooks (tying it all together)
-1.    Rumors heard in Oakhurst
-1.    Standard Operating Procedure for traveling to the dungeon
-1.    Introducing the plot-relevant marauding monsters
-1.    It's not about the destination, it's about the journey
-1.    Finally reaching the ravine
-1.    Foreshadowing on the lip of the ravine
-1.    The first encounter
+1.    [Mysterious magic fruit](/sunless-citadel-character-hooks-tasting-the-fruit-of-the-tree)
+1.    [Phobias that characters might want cured](/sunless-citadel-character-hooks-phobias)
+1.    [Other mental illnesses that characters might want cured](/sunless-citadel-character-hooks-form-of-madness)
+1.    [Having your skin replaced with a slimy membrane](/sunless-citadel-character-hooks-aboleth-slime)
+1.    [Reversing a botched transformation into a snake](/sunless-citadel-character-hooks-serpentine-curse)
+1.    [Character Hooks (tying it all together)](/sunless-citadel-both-character-hooks-together)
+1.    [Rumors heard in Oakhurst](/rumors-heard-in-oakhurst)
+1.    [Standard Operating Procedure for traveling to the dungeon](/sunless-citadel-marching-order)
+1.    [Introducing the plot-relevant marauding monsters](/sunless-citadel-twig-blights)
+1.    [It's not about the destination, it's about the journey](/sunless-citadel-the-old-road)
+1.    [Finally reaching the ravine](/sunless-citadel-dark-ravine)
+1.    [Foreshadowing on the lip of the ravine](/sunless-citadel-here-there-were-dragons)
+1.    [The first encounter](/sunless-citadel-dire-rat-ambush)
 
 The third edition of Dungeons & Dragons was published August 1, 2000.
 
@@ -34,11 +34,20 @@ That same day, an adventure was published to introduce the new edition.
 
 That adventure was The Burning Plague, published for free online to accompany the rulebooks. (This seems like a better arrangement than including an adventure in a boxed set with the rulebooks, honestly.) It was perfectly serviceable but somewhat bland and quickly forgotten.
 
-The adventure really meant to ring in the new edition had a more hand-holding, even handing players pregenerated characters to try out. I'm referring, of course, to the Cave of Shadow, which was much more bland than The Burning Plague.
+The adventure really meant to ring in the new edition had more hand-holding, even handing players pregenerated characters to try out. I'm referring, of course, to the Cave of Shadow, which was much more bland than The Burning Plague.
 
 The Sunless Citadel had more staying power.
 
 Several more online adventures were published before the year was out, including The Vessel of Stars, a highly imaginative module with a lot of original ideas, many of them goofy. But more importantly for our purposes, two actually saw print: The Sunless Citadel and The Forge of Fury. Both proved popular enough to be updated to Fifth Edition. (Not Fourth Edition, because Fourth Edition was a radically different game and any adventure that was good in Third Edition would never have worked in Fourth.)
+
+Wizards of the Coast would later say that as far as they are concerned, The Sunless Citadel was the first 3E adventure. Fair enough.
+
+> The Sunless Citadel, written by Bruce R. Cordell, was the first published adventure for the third edition of the D&D game. It is designed for a party of four or five 1st-level player characters.
+> Ever since its publication in 2000, The Sunless Citadel has been widely regarded as an excellent way to introduce new players to the game. It's also a great starting experience for someone looking to be a Dungeon Master for the first time.
+>
+> --- <cite>Tales from the Yawning Portal, page 4</cite>
+
+The latter is *my* interest in The Sunless Citadel. Different things can make an adventure good in different contexts; what I want is specifically an adventure that is good for people who have never played before.
 
 The proximate inspiration for this series is Eleven-Foot Pole's analysis of Keep on the Shadowfell and Thunderspire Labyrinth.
 
