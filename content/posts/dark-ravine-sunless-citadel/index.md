@@ -248,7 +248,163 @@ With darkvision in play, there are four basic reasons to have a fire:
 
 The fires in Areas 16, Area 33, and Areas 36 are cook-fires. But those would only be lit when they were cooking...right?
 
+Well, it's complicated. They might prefer to keep the fire burning *all the time*. The thing people often don't appreciate is that while striking *sparks* is easy, building a sizable fire can be much harder depending on local conditions.
 
+In particular, when battles are depicted, fires are sometimes portrayed as things that just kind of somehow happen without any apparent dragons. This is really something that comes up in visual media (movies and video games), not books and tabletop, but it's worth bringing up for the benefit of people coming to fantasy fiction primarily from movies and video games.
+
+> Many objects will either still be inexplicably on fire (despite the rain implied by all the mud) or be smoking from some previous fire.
+>
+> Why is everything on fire!? Who lit it on fire? Have you ever tried to light a tree on fire? It's really hard!
+>
+> Photograph of the "Slaughter Pen" which saw fighting on July 2nd, **1863** (!) at the Battle of Gettysburg: despite the heavy fighting, the trees are intact (this position did not receive sustained *artillery* barrages). Nothing is on fire, nor does it appear to have ever been on fire.
+>
+> It is true that incendiary weapons (pots, arrows and javelins) existed, but these were almost exclusively for sieges or naval battles. Pre-gunpowder incendiary weapons were almost always impractical on an open battlefield (obligatory Greek fire caveat; we'll talk about that another day).
+>
+> If things are on fire, it should be because someone has deliberately set them on fire, which normally means not a battle, but agricultural devastation --- one of these armies is burning crops and villages. That might be an invader looking to deal economic damage, or a defender engaged in scorched earth defense.
+>
+> --- <cite>[The Battlefield After the Battle](https://acoup.blog/2019/10/18/collections-the-battlefield-after-the-battle/)</cite>
+
+Once a fire gets big *enough*, it can spread on its own (depending on ambient temperature and wind), but going from sparks to a good-sized fire and be quite delicate. So how hard *is* it to build a fire?
+
+We can ignore the effects of miscellaneous chemicals that can interfere with combustion. And we can mostly ignore the need for constant oxygen input (though it's worth noting that you'll usually need to blow gently on sparks after setting them to tinder, and the point of tinder is to shred fuel into narrow pieces so that it's thoroughly mixed with oxygen). What's relevant here is that you need to *give* heat before you can *get* heat.
+
+> You've got to give of yourself 'fore you're worthy to receive
+> --- <cite>Desert Pete</cite>
+
+#### Ignition temperature
+
+Water at a high elevation can be penned in by walls. If you get the water over the walls, it'll flow downhill, and you can extract energy from that downhill movement --- to turn a water mill, for example. But you have to provide some initial energy to get the water out of the local minimum where it's trapped.
+
+Ignition temperature is the same basic idea, but for chemistry. Oxidation is a process of decay to a lower-energy state, releasing the excess energy as heat.
+
+> C<sub>6</sub>H<sub>10</sub>O<sub>5</sub> + 6O<sub>2</sub> -> 6CO<sub>2</sub> + 5H<sub>2</sub>O
+
+the carbon dioxide and water is a lower-energy state than the original fuel and oxygen, but to reach that state it needs enough energy to get over the initial hump. It needs a high enough temperature.
+
+A chemist will tell you that leaving H<sub>2</sub>O in your solution chemically interferes with the combustion process. And that's certainly true, and important in the lab. But what's more immediately relevant to us is that the ignition temperature of pretty much anything you want to burn is going to be above the boiling point of water. Thus, if the fuel is damp, before you reach the ignition temperature, the water will escape as steam, and every molecule that escapes is leeching off your heat.
+
+> It takes 100 calories to heat 1 gram of water from 0 C, the freezing point of water, to 100 C, the boiling point. However, 540 calories are required to convert that 1 gram of water at 100 C to 1 gram of water vapor at 100 C.
+> --- <cite>[Latent Heat and Freezing and Boiling Points](https://www.e-education.psu.edu/earth111/node/841)</cite>
+
+So you want to dry the fuel in advance, before you try to actually ignite it.
+
+Fresh-cut "green" wood can have a moisture content of around 60 percent or more. As a rule of thumb, you want to get that down to 20 percent or so before actually getting the wood anywhere near your fire. [[Storing and Seasoning Firewood](https://www.bioadvanced.com/articles/storing-and-seasoning-firewood)]
+
+Ancient people dried firewood the same way they dried everything else: with sunlight and wind.
+
+How long does it take to properly age/season/cure firewood? A couple of days?
+
+Try six months to *two years*.
+
+Disclaimer: wood is way more complicated than that. Aging/seasoning/curing firewood also causes desirable chemical changes beyond removing moisture, which cannot be replaced by simply boiling off the water later. But the point is you either need to have well-prepared fuel *or* spend more time and effort starting the fire.
+
+> As if all that cutting, bucking and splitting wasn't time consuming enough, now you also have to stack all that wood.
+> For those whose time is more important (or they are just tired), the thought of not stacking the pieces at all comes to mind often, and why not?
+> We all have seen those piles used by, perhaps, our close neighbors or other people. If the firewood wasn't properly dried, there's no way people would be leaving them in piles like that, right?
+>
+> Yes, firewood can indeed dry, season, or in short, *get ready for burning*, even if you throw it all randomly in a pile.
+> BUT...it is going to take a lot longer for the wood to season this way.
+> There's no way for the sun and wind to reach the wood nicely. Sure, the pieces that are actually exposed will dry the soonest, but forget about the same for the ones that are buried deep.
+>
+> At the end of the day, how well can a pile of wood dry in your instance has most to do with where you live. That's why it is such a controversial topic: you can ask the same question of different folks living in separate locations, and they're definitely going to give you a different answer.
+> If it's one of them drier and hotter climates, leaving the wood to season in a pile shouldn't be an issue, but if you live in, for example, the Northeastern parts of the U.S., I suggest sticking to the classic stacks (even if your neighbor says the opposite).
+>
+> --- <cite>[Will Firewood Dry In a Pile?](https://forfirewood.com/will-firewood-dry-in-pile)</cite>
+
+Stacked firewood is also vulnerable to theft; obviously, firewood is too heavy and low-value to be a target for professional thieves, but anything left outdoors for long periods is a target for simple opportunism.
+
+This may give you some idea why someone might pay a copper piece for twenty pounds of firewood. Aged/seasoned/cured firewood is easier to burn and, as a bonus, lighter to carry.
+
+> Firewood (per day) 1cp 20lb
+>
+> --- <cite>Player's Handbook, page 128</cite>
+
+Sunlight and wind are a tad hard to come by in the Sunless Citadel.
+
+Of course, prior to the coming of Belak the Outcast, the Durbuluks had to get their firewood from outside anyway. Durbuluk lignatores may have gotten it simply by raiding, taking it from farms in the surrounding countryside.
+
+[Remember that the Durbuluks should not be unknown in the area.](/sunless-citadel-character-hooks-rescue-mission#oakhurstians-know-durbuluks-in-citadel) The Durbuluks don't have enough military hegemony to demand the humans actually bring their goods to the Citadel, as a feudal baron could demand, nor do they dare to wander the countryside alone. But they are strong enough that the humans cannot effectively defend against the sudden appearance of a large raiding party, and the Citadel itself obstructs any reprisals.
+
+Or they might burn wood that hasn't been properly aged/seasoned/cured. If you lack the climate, weather or time to dry your wood outdoors, then you can simply expose it to a lot more heat to make it ready for burning. But that will make the process of building the fire longer and more arduous.
+
+Wood is actually even more complicated, but the net effect just increases the importance of gradually warming the wood to prepare it.
+
+> The ignition temperature of wood is affected by how long it is exposed to heat.
+>
+> When the temperature of wood rises to 100 C, chemically unbound water begins to evaporate from it. Then at around 180 C the lignin, cellulose and hemicellulose in the wood begin to disintegrate. Wood usually ignites at 250 -- 300 C.
+>
+> After ignition, the wood begins to carbonise at a rate of 0.8 mm per minute. Fire progresses slowly in solid wood, as the layer of carbon created protects the wood, and slows down the increase in temperature of the wood's inner parts (and thus the progress of the fire). For example, at a distance of 15 mm from the carbonisation limit, the temperature of the wood is under 100 C.
+>
+> --- <cite>[Fire properties of wood](https://www.woodproducts.fi/content/wood-a-material-4)</cite>
+
+This is common among flammable substances that burn slow enough to be useful as fuels: there's some vaporization step that requires energy input to release whatever chemical actually oxidizes. (That's *why* they're slow-burning enough to be suitable for fuel.) But this ultimately all boils down to the same idea of getting over an initial energy hump.
+
+If fire is our only source of heat, how do we heat wood so that we can burn it? Obviously, with a smaller fire.
+
+##### Tinder
+
+"Tinder" usually just refers to fuel that has been shredded to maximize oxygen uptake: splinters, shredded plant fibers, anything. That's the tinder in the tinderbox. Char-cloth may be referred to as part of the tinder, but is often talked about separately.
+
+Tinder is all about the interplay of size, shape, oxygen, temperature, and *speed* of oxidation. Tinder burns *fast*; that's the point.
+Material with more surface area is in contact with more oxygen at any given moment, so it can oxidize *faster*, producing more heat more quickly.
+Raising the temperature of something enough to get a fire started is a local matter. Raising the temperature of the entire fuel pile by a little is much less valuable than raising the temperature of one piece of fuel by a lot.
+If a spark ignites one piece of tinder, raising its temperature enough to begin oxidation, then that piece of tinder will oxidize *quickly* relative to its size --- a piece of tinder with a lot of surface area relative to its size will heat *itself* to a very high temperature, and then can potentially heat things it touches to its own temperature.
+
+> As the fire's heat increases and combustion is more robust, we add larger pieces of fuel. Tinder's success depends primarily on the minute size of individual combustible fibers (fuel) and their exposure to air.  You want enough air between fibers to allow for the oxygen demands of the combustion.  Lots of little fibers in a fluffy mass means each bit of combustible material is exposed to oxygen-rich air.  Think of fluffiness as an ideal relationship between surface area and proximity of each fiber to its neighboring fiber. You want exposure to air, but not so much distance between fibers that the heat dissipates before combustion spreads.  You also don't want flare-ups or explosions that exhaust the fuel immediately. This relationship between fuel size, the proximity between fibers and available oxygen is what allows your spark to grow into an ember, and ember to flame. You can see this in the choice of popular tinder such as cattail fluff or cottonwood down.
+>
+> --- <cite>[Susan Labiste](https://www.primitiveways.com/Amadou%20substitutes.html)</cite>
+
+Many kinds of fungus make great tinder, so tinder, at least, is no problem underground. Just shred the fibers and use them loose. Tinder can be shredded on the spot (which makes the fire-building process more time-consuming) or pre-shredded and stored in a tinderbox for later use.
+
+Charring is often used as a catch-all term for the pre-oxidation steps of burning organic matter, forming pyrophoric carbon which then oxidizes more readily. Pyrophoric is from Greek purophoros 'fire-bearing', from pur 'fire' + pherein 'to bear'. While charring certainly lowers the ignition temperature, the modern-day technical definition of pyrophoric is that it ignites *at or below room temperature*, and nothing you do to wood will make it do *that*.
+
+Charcloth is exactly what it says on the tin. Charcloth is fibers woven into a thin sheet --- that is, cloth --- that has been charred, and is now used to char fuel in preparation for burning.
+
+You can retrieve charred bits and pieces from the remains of a fire, but generally the idea was to have neat little pre-measured pieces, which meant spinning flax or wool and weaving it into cloth cut into, say, 2-inch squares. Of course, you then don't want your cloth to get burned up in the process of charring it, so cloth was placed in an oxygen-deprived environment, such as an actual tin, closed except for a small hole (to allow gasses to escape) before being placed in an existing fire. This could prepare a large batch of charcloth ahead of time. Charcloth was so flammable that if the tin were opened before being allowed to cool completely --- bringing a rush of oxygen to the still-hot charcloth --- the charcloth might spontaneously ignite. Fortunately, people don't usually like to handle hot metal containers anyway. Though more fragile than the parent cloth, charcloth is still sturdy enough for normal handling as whole pieces. (Otherwise there'd be no point cutting it into 2-inch squares.) [[Feeding the Spark](http://www.vikinganswerlady.com/fire.shtml)]
+
+Spinning fibers and weaving cloth is hard work. One kind of tinder that seems appropriate for goblins is rotten wood, but it would be dried and charred well in advance of use, so it wouldn't appear obviously "rotten".
+
+One form of tinder available in D&Dland is a magical plant called touchwood. Touchwood, despite the name, is a fungus, one of several introduced in Races of Stone. The fluffy interior of the fungus makes for excellent tinder. It is also a drying agent --- dried touchwood absorbs moisture very readily. It is also a styptic that will stop a wound from bleeding. Touchwood left to rot on its own will glow with faint luminescence.
+
+Sorry, did I say touchwood was from Races of Stone? Whoopsie, my mistake. Touchwood is, in fact, from real-world Earth, one of many substances traditionally believed to be magical.
+
+In particularly cold or wet environments, people had to get more creative than usual to find tinder that would ignite even more easily, such as touchwood. They also used additional treatments, such as soaking (or preferably boiling, using a previous fire) the charcloth or touchwood in aged urine. But many places didn't use and didn't need the more advanced techniques.
+
+But none of these --- not tinder, not charcloth, not even urine-boiled touchwood --- will ignite at room temperature. [Citation: if it did, it would ignite and burn away before you ever got your hands on it.] They need an initial influx of heat.
+
+Initial heat could come from the sun. Lacking clear glass to make convex lenses, people living in the frozen Northlands of Earth would sometimes make fire-starting magnifying "glasses" out of, no joke, meticulously carved clear *ice*. Of course, trying to start a fire this way presents all the obvious problems: the ambient temperature must be low enough for the ice not to melt in the sun, and the tinder must be exposed enough to the elements to catch the sunlight over a long period of time, without ambient *wind* ruining the fire. And the ice must be very, very clear, meaning water from a *spring*, filtered clean by the rocks, *not* sea ice. So...situational.
+
+Initial heat could come from friction. This was the earliest method, using devices made of wood and rope of varying sophistication. These were quite labor-intensive.
+
+Or we could use a pyrophoric --- pyrophoric in the modern technical sense that it will spontaneously ignite at room temperature.
+
+But that's impossible, isn't it? Anything that would spontaneously ignite would...spontaneously ignite.
+
+Unless...it were a solid material that normally oxidizes slowly. Again, tinder is all about surface area exposed to oxygen. If we had a big chunk of pyrophoric material, with relatively little surface area exposed to air --- possibly with some kind of coating --- and then we gouged it deeply enough to tear out a tiny splinter of material...
+
+A tiny splinter has a lot of surface area relative to its size. So a tiny splinter of pyrophoric material would oxidize very rapidly, quickly reaching a very high temperature, even before it landing. A teeny-tiny, flying sliver of material, hot enough to glow --- a *spark*.
+
+The pyrophoric would have to be quite hard and brittle, so that gouging it would send a tiny splinter flying.
+
+If we dumpster-dived through all the rulebooks and found a material with exactly the right properties, we could potentially "strike sparks" much faster and easier than sunlight or friction could light a fire. Something hard...that oxidizes at room temperature. Hmm. Think about it.
+
+##### Steel
+
+While you're thinking about it, we'll talk about something completely unrelated: steel.
+
+Old-time grognards will remember when the "best" material for weapons and armor was *bronze*.
+
+At the simplest level, you could have tools, axes and spear-heads of stone, which usually meant flint. It could work with any hard stone that experiences conchoidal fracturing, so that breaking the rock will spontaneously produce a sharp edge. Flint had the desired properties and was commonly found.
+
+You could of course always carve weapons from appropriately-sized bones or horns, from appropriately-sized monstrous beasts.
+
+Or you could go for top-tier bronze weapons and armor. For those, you needed copper and tin, both appropriately hard to find, and then they had to be combined by a master smith.
+
+Iron weapons were an optional rule, relevant mainly in places where bronze weapons simply weren't available.
+
+rules-lawyers made just the *edge* of a weapon out of high-carbon steel, and made the core out of lower-carbon steel (cheaper and more flexible) or sometimes even just iron
+
+rules lawyers abused the rapid oxidation of high-carbon steel, which RAI was supposed to be a *downside*.
 
 ### Warmth
 

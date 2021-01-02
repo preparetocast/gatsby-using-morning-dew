@@ -76,7 +76,7 @@ I'm going to quote liberally from Twenty-Sided Tale's statement of philosophy on
 
 This should probably go without saying, but this entire series will be riddled with spoilers.
 
-## <a name="sunless-citadel-overview"></a> Sunless Citadel Overview
+## <a id="sunless-citadel-overview"></a> Sunless Citadel Overview
 
 The basic elements of The Sunless Citadel are:
 

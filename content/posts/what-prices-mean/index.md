@@ -21,7 +21,7 @@ In the case of candles and torches, the most relevant details are specified. A t
 
 For a mirror, or a tent, or a fire-steel, the common-sense answer is that the kind of item the price is listed for is whichever kind of item an adventurer *would in fact* buy.
 
-You could buy a very shoddy fire-steel that might break unexpectedly. You could buy an ornamented fire-steel for showing off wealth. A village-dweller might have opportunities to use a fire-steel in front of company in his longhouse, but an adventurer would typically be using a fire-steel alone in the wilderness, often in secret. So an adventurer has little use for using a fire-steel to show off wealth; when they're in town, they're more likely to just pay someone for lodging, and thus won't even by making their own fire at all.
+You could buy a very shoddy fire-steel that might break unexpectedly. You could buy an ornamented fire-steel for showing off wealth. A village-dweller might have opportunities to use a fire-steel in front of company in his longhouse, but an adventurer would typically be using a fire-steel alone in the wilderness, often in secret. So an adventurer has little use for using a fire-steel to show off wealth; when they're in town, they're more likely to just pay someone for lodging, and thus won't even by making their own fire at all. ~~Also, an adventurer is being puppeted by an alien intelligence from another dimension who cares not whether the adventurer looks cool to their neighbors.~~
 
 
 

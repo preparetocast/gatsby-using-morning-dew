@@ -21,7 +21,7 @@ The treasure in the dungeon itself is *not* scaled to the number of players, so 
 It's also not entirely clear whether this was supposed to be an [Excuse Plot] or an invitation to investigate.
 Was it supposed to be a mystery what happened to the adventurers?
 
-### <a name="oakhurstians-know-durbuluks-in-citadel"></a> The Durbuluks are not a secret
+### <a id="oakhurstians-know-durbuluks-in-citadel"></a> The Durbuluks are not a secret
 
 The Oakhurstians know that the Durbuluks live in the Citadel, right? I mean, why wouldn't they?
 As [we talked about before](/sunless-citadel-adventure-synopsis#durbuluks-raided-road), the goblins have had a big impact on Oakhurst.
