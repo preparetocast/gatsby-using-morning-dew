@@ -378,9 +378,9 @@ Initial heat could come from friction. This was the earliest method, using devic
 
 Or we could use a pyrophoric --- pyrophoric in the modern technical sense that it will spontaneously ignite at room temperature.
 
-But that's impossible, isn't it? Anything that would spontaneously ignite would...spontaneously ignite.
+But that's impossible, isn't it? Anything that would spontaneously ignite would...spontaneously ignite. Though there is some wiggle room since we don't have to entirely forget about friction heat; one good sharp stroke could kickstart the process without putting in all the labor required using wood and rope.
 
-Unless...it were a solid material that normally oxidizes slowly. Again, tinder is all about surface area exposed to oxygen. If we had a big chunk of pyrophoric material, with relatively little surface area exposed to air --- possibly with some kind of coating --- and then we gouged it deeply enough to tear out a tiny splinter of material...
+Unless...it were a solid material that normally oxidizes slowly. Again, tinder is all about surface area exposed to oxygen. If we had a big chunk of pyrophoric material, with relatively little surface area exposed to air --- possibly with some kind of coating --- and then we gouged it deeply enough to tear out a tiny splinter of material from the inside, that hadn't touched oxygen before...
 
 A tiny splinter has a lot of surface area relative to its size. So a tiny splinter of pyrophoric material would oxidize very rapidly, quickly reaching a very high temperature, even before it landing. A teeny-tiny, flying sliver of material, hot enough to glow --- a *spark*.
 
@@ -400,11 +400,69 @@ You could of course always carve weapons from appropriately-sized bones or horns
 
 Or you could go for top-tier bronze weapons and armor. For those, you needed copper and tin, both appropriately hard to find, and then they had to be combined by a master smith.
 
-Iron weapons were an optional rule, relevant mainly in places where bronze weapons simply weren't available.
+Iron weapons were an optional rule, relevant mainly in places where bronze weapons simply weren't available. Iron is *soft*; roughly speaking, the softer the metal, the thicker the edge of a blade has to be. A thin edge made of soft metal will *bend* on impact --- leaving a suddenly *very* dull weapon! So iron was a terrible metal for blades, plus it rusted over time.
 
-rules-lawyers made just the *edge* of a weapon out of high-carbon steel, and made the core out of lower-carbon steel (cheaper and more flexible) or sometimes even just iron
+But someone on the design team liked the iron idea, and so when the new edition rolled out, they included a rule for "steeling" iron.
 
-rules lawyers abused the rapid oxidation of high-carbon steel, which RAI was supposed to be a *downside*.
+These days it's conventional wisdom that steel is OP. And, well, it *is*, I don't deny that. But the real problem was toxic players.
+
+The fundamental idea behind steeling was sound: you have the option to add carbon to iron. This makes the iron harder, but also more brittle. That allows a thinner edge that won't bend, but there's a cost: the edge can get *notched*, chipping away a tiny piece on a hard blow, and each notch becomes a weak point where sufficient force can break the *entire blade*.
+
+Obsidian was very sharp and very brittle, and while people certainly used obsidian where it was available (still do, in fact), you wouldn't call obsidian OP, right? We can forgive the designers for figuring that since obsidian didn't take over the game, steel wouldn't either. Sure, steel could be forged into shapes that couldn't be made chipping away at obsidian, but how much difference could that make?
+
+The main design problem was that the hardness table and the brittleness table were written separately. And the designers didn't pay quite enough attention to the *middle* range. Which is perfectly understandable. They paid the most attention to the lower end (pure iron) and the upper end (pig iron), and neither of *those* were broken. The designers figured if each end was fine, then the middle was also fine. The problem came when the munchkins started dumpster-diving through every obscure rule looking for broken combinations. As it turned out, if you steeled iron to between 0.6% and 1.25% carbon, it was hard, but not yet brittle enough to matter.
+
+Which still wouldn't have been disastrous, except that rules-lawyers spun BS to make steeled iron far more impact-resistant than it was ever intended to be. See, there was a throwaway mention in one paragraph that steeled iron became "springy" and creating the new category of "elastic deformation" --- it bends, then bends back into its original shape. This was obviously only ever intended to be flavor. The writer thought it would be cute to keep the original idea that iron is soft, in a way that didn't make it nonviable for weapons. But the rules-lawyers argued that, even when the rules CLEARLY SAID that the metal's strength had been exceeded, the iron could just bend rather than break. Of course, that made steel into a broken super-metal that was better than bronze even for weapons and armor. Even cheaper medium-carbon steels (0.3% to 0.6% carbon) could perform about the same as bronze.
+
+But even *that* wouldn't have mattered, because the designers thought ahead and included a safety valve. Two, in fact, both of which are kinds of oxidation.
+
+First, steeling iron requires a lot of heat, meaning burning a lot of wood. The deforestation this entails acts as a roleplaying penalty. This also makes steel expensive, and that's a serious drawback because steel weapons and armor are very time-limited --- because *steeling makes iron rust faster*. This very elegant solution meant any problematic steel equipment wouldn't be around very long.
+
+The real problems all came from toxic players. Murderhobos don't care about deforestation. And rules-lawyers dreamed up a surreal variety of BS ways to insist that the steeled iron wasn't *technically* in contact with oxygen. Or to put it another way, the real problem was timid DMs. If Gary Gygax had been around, he would have smacked down all the players with XP penalties for bad roleplaying, and that would have been the end of *that*. No *true* roleplayer used steel; only hack-n-slash rollplayers cared more about whether they died for their country or they made the other guy die for his country, than about staying true to character.
+
+And of course, as with most such things, there's the element of metagaming as well --- the characters didn't know the rules, so *they* had no way to know that steel weapons caused more damage, nor to know that thinner edges were sharper in the first place. (Some weasels try to argue they could somehow figure it out by "observation", but these are no doubt the same weenie DMs who allow players to see their own damage rolls. Hit points are an entirely METAGAME concept, so there's no way the characters could have any idea how much damage a given attack caused. Check. MATE.)
+
+The rules-lawyers weren't satisfied with using OP weapons; they also wanted them *cheaper*. They'd try to weasel out of the downsides of high-carbon steel by saying they'd make just the *edge* of the weapon out of high-carbon steel, and make the core out of lower-carbon steel (cheaper and more likely to bend rather than catastrophically break) or sometimes even just plain iron.
+
+The rest is history, the usual story of power creep. After a while *everyone* was using steel, even when bronze was available. True roleplayers still used bronze weapons and armor, since no real person would ever choose ugly gray crap over the arms of their ancestors, but new players learned primarily from the steel-users and just treated it like it was *normal*.
+
+It's a shameful history, and perhaps best forgotten. (From what I hear, these days the latest edition came out with some BS "chromium" handwave so that steel just officially lasts a long time without rusting, just skipping all the oxidation-preventing BS entirely.) But there is a particularly appalling coda to all this.
+
+High-carbon steel oxidizes fast --- very fast. Of course, by the rules, any natural oxidation is an exothermic reaction. (Actually, any "spontaneous" chemical process must be exothermic, according to the Second Law of Thermodynamics, but that's a longer story about "spontaneous".)
+
+Rules lawyers spent most of their time arguing various ways to weasel out of how fast high-carbon steel oxidizes. But when they wanted to light something on fire, they turned completely around and argued that since high-carbon steel oxidizes so fast, a tiny sliver of it should get hot enough to glow --- and hot enough to light things on fire. That is, they abused the very same oxidation rule they otherwise tried to weasel out of, which RAI was supposed to be a *downside*.
+
+##### Iron Pyrite
+
+Sorry, bit of a tangent there. As you might remember (though I doubt it), we were looking for a hard, brittle pyrophoric that would yield a tiny splinter that would oxidize rapidly.
+
+The answer is...iron pyrite. "Pyrite" is from Greek puritēs 'of fire', from pur 'fire', and the reason why pyrite was called that is perhaps now obvious.
+
+Iron pyrite, or iron (II) disulfide FeS<sub>2</sub>, will spontaneously oxidize on contact with humid air. So will pure iron, of course, but iron doesn't have the right combination of properties to *strike sparks*.
+
+Hmm, unless you mix iron with some carbon. That makes iron an excellent material to strike sparks from.
+
+> Iron by itself is relatively soft and tends to bend rather than chip under the stress of a hard blow on a piece of flint.
+>
+> The harder a piece of steel the smaller the pieces of iron broken from it will be when struck against a hard sharp object. As discussed earlier, smaller pieces of iron will spontaneously burn hotter due to their increased surface area.
+>
+> Another way to get hotter sparks is to break off smaller pieces from the steel by striking it against a harder, sharper object. This is why you need to keep the edges of your flint very sharp for optimum creation of hot sparks when striking the steel.
+>
+> Starting a fire using flint and steel takes more expertise, but a wet or damp flint and steel can still be used to start a fire, and a flint and steel can start many thousands of fires without wearing out.
+>
+> --- <cite>[Flint and Steel: What Causes the Sparks?](http://survivaltopics.com/flint-and-steel-what-causes-the-sparks/)</cite>
+
+High-carbon steel is the basis for starting fires with flint and steel. The steel was the special part, so they'd sometimes refer to the steel as a "fire striker" or "fire-steel". The flint was an afterthought: all that's necessary is to gouge out a sliver of fresh carbon steel to oxidize. Flint is simply the most convenient and common material, for the same reason flint was used for stone axes: flint is easy to find, hard, and experiences conchoidal fracturing, so that breaking the rock will spontaneously produce a sharp edge.
+
+("Fire-steel" is a confusing term *now* because some people started calling ferrocerium rods "fire-steels". Ferrocerium was discovered in 1903 by Baron Carl Auer von Welsbach. Ferrocerium is really all about the cerium, a rare earth element with a low ignition temperature. von Welsbach just tried various alloys until he found one with good physical properties for gouging out splinters. 70% cerium and 30% iron worked. Later developments added lanthanum --- lanthanum is harder to ignite than cerium, but burns hotter than cerium, and can be ignited *by* the cerium. But the core concept is almost opposite to an actual fire-steel: iron and carbon are commonly available and all the work is in preparing them, whereas cerium and lanthanum are comparatively rare, 25th and 28th most abundant in Earth's crust, compared to iron's 4th. But what's worse is when ferrocerium items are called "flints", gouged by hard steel blades, which makes things very confusing by completely reversing how flint and steel originally worked.)
+
+High-carbon steel was harder or easier to obtain at various points in economic development, but we can derive the economic development from the price: 1gp for a flint-and-steel kit. That's ten days of work for a common laborer. Notably expensive, but not out of reach.
+
+A tribe living in tight quarters only really needs one fire-steel to support five fire-pits in five rooms. It might be denied to some if they displease the local rulers, but if at least one fire-steel is available, then it can be used to start multiple fires over the course of the day.
+
+As a rule of thumb, if an item costs less than twenty times the *average* liquid wealth of a community, then *someone* in that community can probably get their hands on one. [Dungeon Master's Guide, page 137] The assumption is that some people will have more wealth than others, and most of that wealth won't be in the form of coins. Given that the Durbuluk's liquid wealth is 808.6 times the price of a flint-and-steel kit, it seems safe to say *someone* can get their hands on a fire-steel.
+
+
 
 ### Warmth
 
