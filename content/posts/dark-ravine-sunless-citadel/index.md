@@ -58,10 +58,6 @@ We can assume all cracks are indirect enough that PCs won't see *light* coming o
 >
 > --- <cite>The Sunless Citadel, Area 15</cite>
 
-> A small ember pit in the center of the chamber...around the fire are several small rugs...
->
-> --- <cite>The Sunless Citadel, Areas 16</cite>
-
 > A permanent camp of sorts lies north of the wall, complete with a fire ring and several small iron cook pots.
 >
 > --- <cite>The Sunless Citadel, Area 33</cite>
@@ -71,6 +67,10 @@ We can assume all cracks are indirect enough that PCs won't see *light* coming o
 > --- <cite>The Sunless Citadel, Areas 36</cite>
 
 But what are the odds they'd happen to be cooking at eleven o'clock, right? Well...according to the text, some fires specifically happen to be burning whenever the PCs show up.
+
+> A small ember pit in the center of the chamber...around the fire are several small rugs...
+>
+> --- <cite>The Sunless Citadel, Areas 16</cite>
 
 > Several small but smoky bonfires light this wide and high chamber.
 >
@@ -321,9 +321,19 @@ This may give you some idea why someone might pay a copper piece for twenty poun
 
 Sunlight and wind are a tad hard to come by in the Sunless Citadel.
 
-Of course, prior to the coming of Belak the Outcast, the Durbuluks had to get their firewood from outside anyway. Durbuluk lignatores may have gotten it simply by raiding, taking it from farms in the surrounding countryside.
+Of course, prior to the coming of Belak the Outcast, the Durbuluks had to get their firewood from outside anyway.
 
-[Remember that the Durbuluks should not be unknown in the area.](/sunless-citadel-character-hooks-rescue-mission#oakhurstians-know-durbuluks-in-citadel) The Durbuluks don't have enough military hegemony to demand the humans actually bring their goods to the Citadel, as a feudal baron could demand, nor do they dare to wander the countryside alone. But they are strong enough that the humans cannot effectively defend against the sudden appearance of a large raiding party, and the Citadel itself obstructs any reprisals.
+Well...technically there might be some substitutes available from the Underdark.
+
+> Torchstalks: These nonmagical mushrooms have combustible, long-burning caps. The caps are hard to light, usually taking 1d4+1 minutes to ignite, but once it is lit, a torchstalk burns steadily for 24 hours and sheds light in a 10-foot radius. These fungi grow wild in the Middledark, especially in the North, and large domesticated crops of them can be found in Gatchorof, Gracklstugh, and most dwarf settlements.
+>
+> Zurkhwood: This giant mushroom can reach a height of 30 to 40 feet. Its large spores are edible with proper preparation, but zurkhwood is important primarily because its stalks are hard and woody. Zurkhwood is one of the very few sources of timber (or anything like it) in the Underdark.
+>
+> --- <cite>Underdark, pages 108--109</cite>
+
+But the Durbuluks are much closer to the surface than they are to the Underdark. (The only closer source of wood is Belak's grove.)
+
+Durbuluk lignatores may have gotten wood simply by raiding, taking it from farms in the surrounding countryside. [Remember that the Durbuluks should not be unknown in the area.](/sunless-citadel-character-hooks-rescue-mission#oakhurstians-know-durbuluks-in-citadel) The Durbuluks don't have enough military hegemony to demand the humans actually bring their goods to the Citadel, as a feudal baron could demand, nor do they dare to wander the countryside alone. But they are strong enough that the humans cannot effectively defend against the sudden appearance of a large raiding party, and the Citadel itself obstructs any reprisals.
 
 Or they might burn wood that hasn't been properly aged/seasoned/cured. If you lack the climate, weather or time to dry your wood outdoors, then you can simply expose it to a lot more heat to make it ready for burning. But that will make the process of building the fire longer and more arduous.
 
@@ -462,7 +472,100 @@ A tribe living in tight quarters only really needs one fire-steel to support fiv
 
 As a rule of thumb, if an item costs less than twenty times the *average* liquid wealth of a community, then *someone* in that community can probably get their hands on one. [Dungeon Master's Guide, page 137] The assumption is that some people will have more wealth than others, and most of that wealth won't be in the form of coins. Given that the Durbuluk's liquid wealth is 808.6 times the price of a flint-and-steel kit, it seems safe to say *someone* can get their hands on a fire-steel.
 
+So they have a good source of sparks. But building a fire is a multi-stage process; in each stage, feeding in the next stage's fuel too soon can smother the fire.
 
++ Catch a spark on a piece of charred rotten wood, charcloth, or similar.
++ Transfer to small pile of tinder (anything, shredded by hand).
++ After that small fire is going strong, feed in a small piece of wood.
++ After that small fire is going strong, feed in larger piece of wood.
++ After that small fire is going strong, feed in larger piece of wood.
++ ...
++ Repeat until the fire reaches the desired size.
+
+There are a bunch of steps, but how much trouble is all this really? Including shredding the tinder and all.
+
+Striking sparks with flint and steel is something you *learn* how to do, like driving a car. The same is true for the rest of building a fire.
+
+Imagine putting a medieval person in a modern house with no written instructions except what they can glean from a bunch of novels and personal emails written by modern people to other modern people. Think about how difficult they would find it to:
+
++ Ride a bike.
++ Drive a car.
++ Change the batteries in an electric toothbrush, change the brush head, and use it to brush their teeth.
++ Change a fluorescent light fixture.
++ Change a shower curtain.
++ Type an email.
+
+You're surrounded every day by things that were a nigh-insurmountable hurdle the first time, but which became so automatic that you stopped even thinking of them. Ancient people had to do all the same tasks (yes, including cleaning their teeth) but accomplished the same goals with different tools. *Worse* tools, but not worse by as much as you would assume if you lacked the underlying competencies that were commonplace in *their* era just as our own are commonplace in ours.
+
+> Most of us modern westerners do not light fires on a daily basis anymore. We do it on special occasions: when there is a festivity that needs a bonfire, or when we fire up the barbecue (though that is a different sort of fire and started differently in many cases). There are convenient firestarters that will help get the wood or charcoal going, and they are easy to light with a lighter or some matches.
+> However, not doing this very often, and consequently not knowing a lot about how to do it efficiently, means that lighting a fire can still be a longish procedure that does take an effort. And here's the slippery slope for our misconception: if it is not easy with our modern firestarters and lighters, it must have been much, much harder and have taken an even longer time back in the Middle Ages.
+>
+> Hence, probably, the assumption that the fire was never to go out in a household, because it would take hours of hard work to get it started again.
+>
+> It is no problem at all to light a fire using medieval equipment and techniques: a piece of flint, a fire-steel, some tinder and suitable material. When I have my usual equipment and the spark settles on the tinder right away, it takes me about ten minutes from pulling out the bag where I store my things for lighting the fire and the first merry flame burning. It is no problem when it's a bit windy, either --- actually it is quite helpful since the wind will fan the little nest of embers.
+>
+> Now, when we first tried this in our group, it did take us a long time to light a fire. There were three, sometimes four of us, working really hard, with one of us continually fanning the embers, or flames (using a blowpipe), and the others trying to feed the tiny little flame that sometimes came up with tiny little bits of fuel. It went out again more often than not, and if we'd managed to do it in under an hour, we felt like the kings of the world.
+>
+> Then, one day, I helped run a charcoal kiln. A charcoal kiln is basically a huge, very dense stack of wood that is covered with a mix of soil, coal dust, and small coal pieces. That cover keeps most of the oxygen out of the kiln, so when it is started, it only smoulders and does not burn. Smouldering and thus turning the wood into charcoal starts at the top, and the huge, very hot ember inside travels inwards and outwards.
+>
+> I was trying to light a fire according to the system you use when you have the modern firestarters --- those things that you light with a single match, and they burn with a nice hot flame for a good while. The flame's heat travels upwards, so you usually make a small tipi or such and place your starter underneath.
+>
+> When you use flint and steel, though, you do not produce flame right away. If you fan your little nest of tinder and straw and wood shavings to a flame, that will not burn long enough or hot enough to make the wood you built up catch fire.
+>
+> So I started building my fires upside down: a slab of wood at the very bottom, to catch and reflect any heat and insulate the starting fire from the cold of the ground. Then small bits of wood, stacked up like a log building, widening a little so it looks like an upside-down pyramid. Around that some larger pieces of wood, also in log-house formation. Once that is done, I make a nest from straw and wood shavings, strike a spark into my charcloth (for ecological reasons and convenience, I usually have charred cotton cloth), and place the charcloth into the nest. I close the nest and gently blow on it until it's quite hot, then I place it into the upside-down pyramid and put an extra piece of wood on top to keep it nicely compressed.
+>
+> Once that is done, if I have set up everything correctly, all I need to do is wait for a few minutes, and the fire will burn nicely. It's about five minutes of activity, tops, to set things up, followed by about ten or so minutes of waiting (or doing something else) until it burns. On Living History events, I've had perfect days when I did this, went to the toilet, and once I came back the fire was burning nicely enough to start making breakfast.
+>
+> --- <cite>[Dr. Katrin Kania](https://www.medievalists.net/2015/07/the-middle-ages-unlocked-starting-a-fire/)</cite>
+
+On the other hand, we know that medieval people did cover their fires, keeping the fire slowly smouldering in an low-oxygen state. We have the curfews they covered fire with.
+
+[![ceramic couvre-feu](https://api.art.rmngp.fr/v1/images/17/531459?t=fhwdWF7lskx7eVFqvSEsfA "Grand Palais (musée de Cluny - musée national du Moyen-Âge")](https://art.rmngp.fr/en/library/artworks/couvre-feu_ceramique-materiau)
+
+Curfews? Well, see, the fire-cover was called a couvre-feu (cuevre-fu/quevre-feu/covre feu) in vernacular French, from couvre, imperative of couvrir "to cover" plus feu "fire".
+
+> Medieval curfews, also known as "couvre-feu" or fire covers, are ceramic or iron covers used to keep the embers of the fire overnight.
+> The Medieval Household, Daily Living C.1150-C.1450 has some drawings of fragments found of some ceramic curfews, plus some good history and written descriptions.
+> --- <cite>[14th Century Curfew](https://companyofthestaple.org.au/14th-century-curfew/)</cite>
+
+The modern English word curfew is not a coincidence. In medieval France, the couvre-feu was required at night. At some point, the practice spread to England.
+
+> It has long been said that it was introduced into England by William the Conqueror as a measure of political repression, but this rests on no early historical evidence.
+> --- <cite>[Pascal Tréguer](https://wordhistories.net/2016/08/22/curfew/)</cite>
+
+> A law of police, which directed all fires to be put out at the tolling of a bell called the Curfew (Couvre feu) bell, is by later chroniclers ascribed to William [the Conqueror], but without any countenance from the early writers.
+>
+> --- <cite>[Thomas Keightley (1789--1872), The History of England (1839)](https://wordhistories.net/2016/08/22/curfew/)</cite>
+
+Among pre-modern English historians, it was considered a well-established fact that William the Conqueror brought the curfew from France to England that that he did it to suppress rebellion. Modern historians note that there seems to be no evidence for this. Which isn't to say that it necessarily *isn't* true; etymologically, it's obvious that the curfew came from French, so presumably the practice came from France. What we don't know is when or why. For all we know, it might have been common practice in England by the time William set sail from Normandy. And of course the official purpose of the couvre-feu was to prevent out-of-control house fires in town. (Though it's also useful for preventing dissidents from secretly meeting at night --- a single watchman can easily scan the entire town for lights and know that any light is a rebel.)
+
+> William also ruled that no lights should show within a household after the curfew bell but this was relaxed in 1103 by Henry I who said that lights, e.g. candles, could show even though the household fire had to be extinguished.
+>
+> The ringing of the curfew bell each night at 8pm was utilised for other purposes. Both Edward I and Edward III made laws which said no-one carrying arms should be on the streets after the curfew bell.
+>
+> In most cases - if not all - the bells used to announced the curfew were those of the parish church. They could be heard throughout the area concerned and undoubtedly exercised a certain authority - in other words, if the church bells rang, the people knew their message was important and should be heeded.
+>
+> --- <cite>[How the church bells rang out to sound the Conqueror's curfews](https://www.thenorthernecho.co.uk/news/7009448.church-bells-rang-sound-conquerors-curfews/)</cite>
+
+Similarly, we know *that* medieval people covered their fires, but we don't know when or why. It's possible, for example, that they only did it in the winter, not the summer.
+
+Covering a fire certainly is a good way to avoid having to start a fire from scratch later, for the same reason that charcloth will spontaneously ignite if you open the tin before it cools.
+
+> A fire that has been burning for some time will be capable of supporting flames at oxygen concentrations perhaps as low as 7%.
+>
+> A fire may be held in check and may even self-extinguish if the supply of oxygen is limited. Flaming may cease, but smouldering will continue at very much lower oxygen concentrations. Admission of air before the fuel has cooled sufficiently can lead to a vigorous eruption of the fire, known as backdraught, or backdraft.
+>
+> --- <cite>[Encyclopaedia of Occupational Health and Safety 4th Edition](http://www.ilocis.org/documents/chpt41e.htm)</cite>
+
+That *may* have been the purpose of the couvre-feu, so people *might* have covered the fire between meals.
+
+But we actually do have our answer to the original question: when they weren't actively cooking, would any smoke be visible?
+
+No. It wouldn't, because even if they kept the fire going, the fire would be covered, smoldering very slowly.
+
+Would they be cooking between 11am and noon? Eh, probably not. People using darkvision underground are untethered from the sun, so when they would be cooking is essentially random, and there's only a brief window when sunlight streams in and makes smoke visible.
+
+So we can cross off Area 33 and Areas 36; no smoke above those.
 
 ### Warmth
 
@@ -472,7 +575,17 @@ It is worth noting that the *grove* level is probably closer to a uniform 52 Fah
 
 This has no *mechanical* effect, since we don't bother to "officially" track cold until it drops below 40 Fahrenheit, but PCs may notice the air get noticeably chillier when they descend.
 
-But as far as the fortress level is concerned, the module never specifically mentions anyone using fire for warmth, and that's probably not the reason for the Area 20 bonfires, either.
+But as far as the fortress level is concerned, for the most part the module never specifically mentions anyone using fire for warmth. The kobold bounders, however, do have rugs around their fire.
+
+> A small ember pit in the center of the chamber...around the fire are several small rugs...
+>
+> --- <cite>The Sunless Citadel, Areas 16</cite>
+
+That suggests those kobolds *are* using the fire for warmth, which in turn suggests that the unexplained bonfires in Area 20 have the same purpose, since they're also owned by kobolds.
+
+(Kobolds are warm-blooded, but nothing is said about *where* these particular kobolds just immigrated from. Maybe these kobolds just came from the blistering desert, in which case they'd be used to rather more warmth than the local Durbuluks.)
+
+This is another reason FoundryAtropos added a fire to Yusdrayl's throne; as the module is written, Yusdrayl and her "elite guard" are the only kobolds who *don't* have fires near them, which is a bit odd. Maybe the point of keeping Yusdrayl in darkness is for defense --- Yusdrayl's 2d4+2 magic missiles are an important equalizer for the outnumbered kobolds, and suggestively, Yusdrayl habitually lurks *just* out of darkvision range of the obvious entrypoint for a Durbuluk attack --- but then the door where the Durbuluks would break in should be illuminated, so that Yusdrayl could see *them*. (Though if we *wanted* to keep that detail, we could add some fire hobgoblins to the Durbuluks instead of adding fire to the Hall of Dragons --- fire hobgoblins lack darkvision, so the kobolds might figure forcing them to bring their own fire is a better bet.)
 
 ### To see colors
 
