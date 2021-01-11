@@ -191,7 +191,7 @@ That's kilo with a k. The attenuation is higher at those frequencies. How much d
 
 You *can* have echolocation operating at much lower frequencies --- humans can learn to do it. But frequency matters. The most successful human echolocators are using frequencies at the absolute upper end of human hearing.
 
-> Humans can learn to use acoustic echoes to detect and classify objects. Echolocators typically use tongue clicks to induce these echoes, and there is some evidence that higher spectral frequency content of an echolocator’s tongue click is associated with better echolocation performance. This may be explained by the intensity of the echoes. The current study tested experimentally if emissions with higher spectral frequencies lead to better performance for target detection. The peak spectral frequency of the emission was varied between 3.5 and 4.5 kHz. Participants performed better using emissions with higher spectral frequencies. The findings suggest that people who train to echolocate should be instructed to make emissions (e.g. mouth clicks) with higher spectral frequency content.
+> Humans can learn to use acoustic echoes to detect and classify objects. Echolocators typically use tongue clicks to induce these echoes, and there is some evidence that higher spectral frequency content of an echolocator's tongue click is associated with better echolocation performance. This may be explained by the intensity of the echoes. The current study tested experimentally if emissions with higher spectral frequencies lead to better performance for target detection. The peak spectral frequency of the emission was varied between 3.5 and 4.5 kHz. Participants performed better using emissions with higher spectral frequencies. The findings suggest that people who train to echolocate should be instructed to make emissions (e.g. mouth clicks) with higher spectral frequency content.
 >
 > --- <cite>[Human Echolocation for Target Detection Is More Accurate With Emissions Containing Higher Spectral Frequencies, and This Is Explained by Echo Intensity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5968665/)</cite>
 
@@ -240,6 +240,7 @@ Anyway. Before we make a map showing the smoke, we should double-check whether w
 With darkvision in play, there are four basic reasons to have a fire:
 
 + Cooking.
++ Cremation.
 + Warmth.
 + To see colors.
 + To see at a distance.
@@ -567,6 +568,14 @@ Would they be cooking between 11am and noon? Eh, probably not. People using dark
 
 So we can cross off Area 33 and Areas 36; no smoke above those.
 
+### Cremation
+
+> ceremoniously burned fallen kobold warriors in the fire pit.
+>
+> --- <cite>The Sunless Citadel, Area 15</cite>
+
+Obviously not something done frequently. This can be assumed to be over by the time the PCs show up...but we generally assume the raid was fairly recent, so we could just as well assume those bodies are being burned exactly when the PCs have a chance to see the smoke. When the PCs actually reach Area 15, they will find "evidence of a recent bonfire".
+
 ### Warmth
 
 The fortress level is still fairly exposed to the elements through the gaping maw of the ravine, so season makes a difference. [Practically everyone is going to start this adventure in summer](,,/adventure-synopsis-sunless-citadel), so the fortress level is probably warmish.
@@ -585,12 +594,189 @@ That suggests those kobolds *are* using the fire for warmth, which in turn sugge
 
 (Kobolds are warm-blooded, but nothing is said about *where* these particular kobolds just immigrated from. Maybe these kobolds just came from the blistering desert, in which case they'd be used to rather more warmth than the local Durbuluks.)
 
-This is another reason FoundryAtropos added a fire to Yusdrayl's throne; as the module is written, Yusdrayl and her "elite guard" are the only kobolds who *don't* have fires near them, which is a bit odd. Maybe the point of keeping Yusdrayl in darkness is for defense --- Yusdrayl's 2d4+2 magic missiles are an important equalizer for the outnumbered kobolds, and suggestively, Yusdrayl habitually lurks *just* out of darkvision range of the obvious entrypoint for a Durbuluk attack --- but then the door where the Durbuluks would break in should be illuminated, so that Yusdrayl could see *them*. (Though if we *wanted* to keep that detail, we could add some fire hobgoblins to the Durbuluks instead of adding fire to the Hall of Dragons --- fire hobgoblins lack darkvision, so the kobolds might figure forcing them to bring their own fire is a better bet.)
+This is another reason FoundryAtropos added a fire to Yusdrayl's throne; as the module is written, Yusdrayl and her "elite guard" are the only kobolds who *don't* have fires near them, which is a bit odd. Maybe the point of keeping Yusdrayl in darkness is for defense --- Yusdrayl's 2d4+2 *magic missiles* are an important equalizer for the outnumbered kobolds, and suggestively, Yusdrayl habitually lurks *just* out of darkvision range of the obvious entrypoint for a Durbuluk attack --- but then the door where the Durbuluks would break in should be illuminated, so that Yusdrayl could see *them*. (Though if we *wanted* to keep that detail, we could add some fire hobgoblins to the Durbuluks instead of adding fire to the Hall of Dragons --- fire hobgoblins lack darkvision, so the kobolds might figure forcing them to bring their own fire is a better bet.)
 
 ### To see colors
 
-Seeing colors is important for showing off wealth. Or rather, it's important for *other people* to see the colors of your stained-glass windows, or in this case, jade figurines.
+Seeing colors is important for showing off wealth. Or rather, it's important for *other people* to see the colors of your stained-glass windows, or in this case, jade figurines. Area 15 contains a total of five jade figurines worth a total of 75 gp; this is something you want to show off. Area 15 is also decorated with "symbols and glyphs scribed in bright green dye".
+
+That sounds odd, actually. Scribed in dye? What, on tapestries? Area 15 also contains a paintbrush; the suggestion seems to be that symbols and glyphs were painted directly onto the masonry walls.
+
+*Generally*, paints and dyes were distinct.
+
+> pigments used for painting were used for effect and were often entirely different in nature and cost from cloth dyes.
+> --- <cite>[Amanda Greaves](https://www.bucks-retinue.org.uk/index.php/guide-book/notes-on-making/medieval-colours)</cite>
+
+In the modern world it's not recommended to use paint and dye interchangeably, partly because commercial paints and dyes have additives to optimize them for one purpose.
+
+But you *can* use some paints as dyes and use some dyes as paints.
+
+> I watered down the paint quite a bit for this project because I wanted the paint to act as a dye for the muslin.  I used about 2 spoonfuls of paint to about 2 cups of water and mixed it all up.
+>
+> I stuffed the strips of muslin into the jar of green paint water and swished them around for a minute or two until they looked dyed.  I then squeezed the water out of them and layer them out to dry overnight. This mixture of paint and water was the perfect consistency to retain the beautiful green colour and dye the fabric a consistent colour.
+>
+> --- <cite>[Paint and Fabric](https://www.recreateddesigns.com/2014/06/paint-oh-how-i-love-thee-especially-on/)</cite>
+
+Adding a mordant (such as alum or iron) or dye fixative (such as salt or tannin) on-the-fly is an option.
+
+> Dying fabric with paint is quite easy but if you are trying to achieve a certain colour, as I was, it may take a little trial and error.
+>
+> Tip: do not use latex paint for dying...chalk paints or a milk paint. The lack of latex and acrylic make these paints work best.
+>
+> To dye the fabric, simply add some of the paint to a bucket of room temperature water, add some table salt (to help set the colour), and drop in the fabric.  Make sure to swirl it around to soak up the water and paint and then let it sit for a while depending on how concentrated you want the colour to be.
+>
+> --- <cite>[Dying Fabric with Paint](https://www.recreateddesigns.com/2016/03/dying-fabric-with-paint/)</cite>
+
+Terminology note: Some people reserved "mordant" for working with animal/protein fibers and "dye fixative" for working with plant/cellulose fibers, some used "mordant" for anything that came out of a mine and "fixative" for anything else, but practices varied widely and distinctions are slippery --- What if you dye cotton with a mix of both alum and tannin? What about protein/cellulose blends, like wool/hemp, silk/bamboo and silk/cotton? Is salt a mordant if it comes from a mine but a fixative if it comes from evaporation? --- and today basically everyone uses "mordant" and "dye fixative" interchangeably.
+
+> The historic alum mines were located in southern Europe (France and Italy), and in Greece and Egypt.
+>
+> Mordanting provides the dyer flexibility as fibers can be mordanted in advance, dried, and dyed later, or mordanted and dyed in one day.
+>
+> --- <cite>[How to Mordant](https://botanicalcolors.com/how-to-mordant/)</cite>
+
+> One historic dye book which gives recipes and instructions on making dye is the German Innsbruck Manuscript from 1330.
+>
+> To make a green dye, take verdigris [oxidation of copper] and boil it in urine and mix alum thereto and a portion of gum arabic, and dye therewith.
+>
+> --- <cite>[Medieval Dyestuffs, Dyeing & Colour Names](https://rosaliegilbert.com/dyesandcolours.html)</cite>
+
+> Nettles with an iron mordant will produce a deep moss in the first bath and increasingly lurid yellow-greens in subsequent baths.
+> --- <cite>[Historic Enterprises](https://historicenterprises.com/fabrics-colors-c-100_198_200.html)</cite>
+
+> Buckthorn berries and logwood are both sources of green dye, and combining woad and weld dyes and other common vegetable dyes could produce colours varying from muddy green to emerald to spring green.
+> --- <cite>[Amanda](http://postej-stew.dk/2019/05/medieval-fabrics-part-2/) [Greaves](https://www.bucks-retinue.org.uk/index.php/guide-book/notes-on-making/medieval-colours)</cite>
+
+> Reseda luteola (dyer's weld) will produce yellow on alum, while on an iron mordant, it will dye a shade of olive-green.
+> --- <cite>[Dr. Katrin Kania](https://thehistoryvault.co.uk/medieval-textiles/)</cite>
+
+But the question of whether the fire is lit in Area 15 mostly depends on whether they're burning their dead at the moment.
+
+What about the Hall of Dragons?
+
+> Deterioration and decay thrive here as everywhere; however, a double row of relief-carved marble columns march the length of the hall. The worn carvings depict entwining dragons.
+>
+> --- <cite>The Sunless Citadel, Area 19</cite>
+
+But just like our ancient marble sculptures, any paint has long since worn away. So no, no light needed for viewing the Hall of Dragons. Ditto for the rearing dragon carved into Yusdrayl's altar, and none of the offerings on *that* altar are much to look at (a small feather and three scrolls). But Yusdrayl's red-dyed robes are another matter. But Yusdrayl presumably spends enough time where the *other* kobolds have light.
+
+What about the riddling dragon statue?
+
+> a sculpture of a dragon carved from red-veined white marble
+>
+> --- <cite>The Sunless Citadel, Area 9</cite>
+
+FoundryAtropos thought that statue should be illuminated, since red-veined white marble is rather less impressive-looking in black and white. But any illumination would necessarily be magical, hence smokeless.
+
+The goblin trophy room? Actually, most of the Durbuluks' trophies don't seem to need color. They do have *one* jade figurine, but most of the trophies are stuffed animal heads, a scroll case carved of bone, fine silverware, and a crystal goblet.
+
+...wait, would a crystal goblet sparkle without light?
+
+...actually, would silver be shiny without light?
+
+As long as we're talking about diffuse reflection, it's clear enough what darkvision does. But once we start talking about materials with significant specular reflection, silver in particular...the "shine" of silver depends on the position of your light source. (Ditto the refraction of a crystal goblet.)
+
+I am profoundly uninterested in relating darkvision to real-world gamma rays or whatever, but "does silver look like any random dull gray metal in darkvision" seems like something we need to know. If shiny things, in general, are only shiny when there's a light source, then they'll tend to be regularly illuminated, never mind whether hue matters.
+
+> The Ethereal Plane emits its own diffuse light. Vision is limited, however, to 60 feet
+> --- <cite>Manual of the Planes, page 55</cite>
+
+People with darkvision can't literally be seeing ethereal light, else darkvision wouldn't work on other planes. But there is precedent for planes emitting diffuse light from nowhere in particular. It could be that all planes do that in a sense, some kind of "light" that only darkvision can see.
+
+> Gloss is an optical property which describes how well a surface reflects light in specular direction. The reflectivity (or reflectance) is defined as the fraction of incident light intensity reflected at the interface (surface effect). Only highly polished metal mirrors have nearly total reflectance. If the reflectance is almost zero, the surface appears totally matt. A material with reflectance in between these two extremes is called glossy or shiny.
+>
+> the shininess of a surface depends on both the specular reflection and the diffuse light of the surrounding surface area, which is often called the contrast gloss or luster.
+> --- <cite>[Polymer Database](https://polymerdatabase.com/polymer%20physics/Gloss.html)</cite>
+
+Luster depends on a directional light source and will not be visible in perfectly-diffuse light.
+
+> Procedure for the reflection test
+>
+> + Hold the sample to orient it with any planar (flatter) surfaces facing an overhead light.
+> + Rotate the sample back-and-forth to reflect light from a source.
+> + Observe the reflection of light from any flat surfaces.
+>
+> Possible test results and interpretation
+>
+> + Metallic. As the mineral is turned against the overhead light, we observe a flash described as that from a polished metal surface. We identify this type of reflection as metallic.
+> + Non-metallic. As the mineral is turned against the overhead light, we either observe a flash that does not resemble polished metal. We identify this type of reflection as non-metallic. For our quick-and-dirty assessment of luster at this time, we don't need to determine the type of non-metallic reflection (e.g., glassy, pearly, earthy, etc.).
+>
+> --- <cite>[Geosciences LibreTexts (Department of Education)](https://geo.libretexts.org/Bookshelves/Geology/Book%3A_Gemology/02%3A_Origins_of_Minerals/2.05%3A_Luster)</cite>
+
+That suggests that shiny objects might not be shiny when viewed with darkvision. That would have far-reaching consequences; in particular, the goblin trophy room would probably be illuminated. (Though the white wyrmling might have been the fire out...but then again, maybe not. Dragons like shinies too.)
+
+The Hall of the Goblin Chief actually *doesn't* have anything shiny or colorful to show off (except the very-recently-acquired Hucrele signet ring) --- all the valuables are hidden away in a locked chest --- making the torches there a bit of a mystery. Does Durnn get chilly? Are some of Durnn's hobgoblins fire hobgoblins (lacking darkvision)?
+
+It's worth noting that dim violet light shines out of the shaft plunging down from the Hall of the Goblin Chief, thanks to phospherescent fungi, which might look significantly creepier if the Hall were not lit by torches.
 
 ### To see at a distance
+
+Any place you have a long sightline, you want a light source at the far end if you can maintain one. If you have darkvision, *you* can remain shrouded in darkness, while any intruders will be fully visible. Same principle as security lights on a modern home.
+
+This doesn't apply to the Durbuluks so much, since they're hamstrung by the fact that these interior corridors have a habit of turning. Areas 32 and 33 both have the far walls within sixty feet of the goblin guards, so there would be no point in adding security lights. (Plus, the goblins use javelins anyway.)
+
+The kobolds use crossbows. Well, maybe. It's not 100% clear whether it was intentional for the kobolds to all have light crossbows, despite otherwise being poor (they *are* fanatics), or whether The Sunless Citadel was just referencing the 3.0 Monster Manual in giving them light crossbows. The 3.0 Monster Manual...
+
+> Attacks: Halfspear -1 melee; or light crossbow +2 ranged
+>
+> Damage: Halfspear 1d6-2; or light crossbow 1d8
+>
+> ...
+>
+> They begin a fight by slinging bullets.
+>
+> --- <cite>3.0 SRD</cite>
+
+Yeah...the 3.5 revision resolved this in favor of slings. That is, obviously kobolds *can* use any weapons, but they're assumed to have slings unless otherwise noted.
+
+We could go either way. In any case, slings are still fairly long range.
+
+There are two places where the kobolds could have long west-to-east sightlines. East along the corridor leading to Area 15, but there's a door in the way. The doorway would provide cover against ranged attacks, which is less than ideal, so it's not too surprising the kobolds don't have anyone stationed at the west end of the corridor.
+
+The Hall of Dragons is another matter. Yusdrayl and six kobold bounders are stationed 65--80 feet west of the north door where any Durbuluk attack would come in. The goblins could take cover behind the dragon-carved marble columns, but that wouldn't protect them against Yusdrayl's *magic missiles*. If the kobolds added a security light to the east end of the Hall of Dragons, Yusdrayl might serve as a fairly effective weapon of terror discouraging Durbuluk attack from that direction.
+
+That said, if we wanted to keep the Hall of Dragons unlit, we could say there are enough fire hobgoblins among the Durbuluks (lacking darkvision) that the Durubluks would have to bring their own light sources on any major assault.
+
+### What is up with Area 39?
+
+> Several torches mounted in crude wall sconces burn fitfully in this chamber. While the torches burn, the hall is lighted.
+> --- <cite>The Sunless Citadel, Area 39</cite>
+
+These torches obviously aren't for cooking. They aren't for warmth; no one hangs out here. They aren't to see colors; as noted for the Hall of Dragons, the marble columns have likely lost any color they once had, plus [the Durbuluks generally aren't very respectful of the Citadel](/sunless-citadel-here-there-were-dragons#gang-tags). They aren't for sightlines; none of the goblins lurk in a position to see into here. They keep the doors closed.
+
+We should appreciate what a large expense this is. Wait, actually, first we should clarify something.
+
+**Medieval people did use torches!**
+
+We'll have none of this nonsense about how "torches are a myth" or "real people didn't use torches" or "real people just let their eyes adjust to the darkness" or "torches are too smoky to be used" or any such thing. They used torches. They used torches indoors. Rich, pampered people used torches at banquets where they were trying to impress their rich, pampered guests. Not only did they use torches, they in fact used torches much larger than any detailed in the Player's Handbook.
+
+[![Servants holding torches during a banquet at the house of Bessus](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-8100013&E=JPEG&Deb=5 "Servants holding torches during a banquet at the house of Bessus, Historiae Alexandri Magni (BNF Fr. 49, fol. 9), second half of the 15th century")](http://www.larsdatter.com/torches.htm)
+
+> The Bal des Ardents, Froissart's Chronicles (BNF Fr. 2648, fol. 308), mid-15th century (contrary to the usual narrative, all of the dancers carry torches)
+>
+> The Bal des Ardents, Froissart's Chronicles (British Library Harley 4380, fol. 1r), c. 1450-1480. (Note that the torches appear in the left background and right foreground; the wooden sticks on the ground were the performers' prop clubs.)
+>
+> Servants holding torches during a banquet at the house of Bessus, Historiae Alexandri Magni (BNF Fr. 49, fol. 9), second half of the 15th century
+>
+> Assassination of Humphrey the Good, Chronicles of England (BNF Fr. 84, fol. 1), second half of the 15th century
+>
+> Awarding the prize to the winner of the tournament in The Book of the Tournament of Ren&eacute; d'Anjou: BNF Fr. 2692, fol. 70v (c. 1488-1489); BNF Fr. 2693, fol. 64v (c. 1488-1489); BNF Fr. 2695, fol. 103v (c. 1460)
+>
+> Tristan discovered in Iseult's bedroom, Tristan de Léonois (BNF Fr. 102, fol. 69v), c. 1470
+>
+> Brut wants to avenge his daughter, Romans de la Table Ronde (BNF Fr. 112 (3), fol. 92v), c. 1470
+>
+> Three couples in a circle dance and Masquerade, c. 1515
+>
+> --- <cite>[Torches](http://www.larsdatter.com/torches.htm)</cite>
+
+And on and on and *on*. People used torches indoors.
+
+*However*, keeping several torches burning *all the time* would be a significant expense.
+
+People only used torches when they needed *a lot of light*.
+
+ash rats
+
 
 
