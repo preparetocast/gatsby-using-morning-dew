@@ -46,6 +46,20 @@ module.exports = {
         },
         gatsbyRemarkPlugins: [
           {
+            resolve: `gatsby-remark-flowchart-ver-yuchanns`,
+            options: {
+              // see more details on https://github.com/adrai/flowchart.js
+              // https://flowchart.js.org/?lng=de
+              // 'flowstate' : { 'approved' : { 'fill' : '#58C4A3', 'font-size' : 12, 'yes-text' : 'APPROVED', 'no-text' : 'n/a' }, },
+              // https://github.com/rhanekom/gatsby-remark-draw
+              // also says It's important to add this plugin before any other plugin that processes code blocks like gatsby-remark-prismjs.
+              // as long as seeing "info lang is flowchart" when gatsby build, probably cannot work? no, actually that shows up even when it works
+              // maybe gatsby-remark-draw with mermaid would be better than flowchart.js
+              'fill': 'white',
+              'line-color': 'black',
+            }
+          },
+          {
             resolve: "gatsby-remark-embed-video",
             options: {
               width: 800,

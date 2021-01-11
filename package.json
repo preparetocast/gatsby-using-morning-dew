@@ -53,6 +53,7 @@
     "gatsby-plugin-styled-components": "^3.6.0",
     "gatsby-remark-autolink-headers": "^2.7.0",
     "gatsby-remark-copy-linked-files": "^2.6.0",
+    "gatsby-remark-flowchart-ver-yuchanns": "^0.0.2",
     "gatsby-remark-images": "^3.7.1",
     "gatsby-remark-prismjs": "^3.9.0",
     "gatsby-remark-responsive-iframe": "^2.7.0",

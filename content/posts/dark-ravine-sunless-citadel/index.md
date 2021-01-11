@@ -776,6 +776,34 @@ And on and on and *on*. People used torches indoors.
 
 People only used torches when they needed *a lot of light*.
 
+```flowchart
+st=>start: Start:>http://www.google.com[blank]
+e=>end:>http://www.google.com
+op1=>operation: My Operation
+sub1=>subroutine: My Subroutine
+cond=>condition: Yes
+or No?:>http://www.google.com
+io=>inputoutput: catch something...
+
+st->op1->cond
+cond(yes)->io->e
+cond(no)->sub1(right)->op1
+```
+
+```flowchart
+rsh=>rushlight: rush light:>http://www.google.com[blank]
+e=>end:>http://www.google.com
+tlw=>tallowcandle: tallow candle
+bswx=>beeswaxcandle: beeswax candle
+cond=>condition: handheld
+torch:>http://www.google.com
+io=>inputoutput: staff torch
+
+rsh->tlw->cond
+cond(yes)->io->e
+cond(no)->bswx(right)->tlw
+```
+
 ash rats
 
 
