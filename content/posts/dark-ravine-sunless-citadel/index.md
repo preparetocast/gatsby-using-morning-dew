@@ -703,7 +703,7 @@ Luster depends on a directional light source and will not be visible in perfectl
 >
 > --- <cite>[Geosciences LibreTexts (Department of Education)](https://geo.libretexts.org/Bookshelves/Geology/Book%3A_Gemology/02%3A_Origins_of_Minerals/2.05%3A_Luster)</cite>
 
-That suggests that shiny objects might not be shiny when viewed with darkvision. That would have far-reaching consequences; in particular, the goblin trophy room would probably be illuminated. (Though the white wyrmling might have been the fire out...but then again, maybe not. Dragons like shinies too.)
+That suggests that shiny objects might not be shiny when viewed with darkvision. That would have far-reaching consequences; in particular, the goblin trophy room would probably be illuminated. (Though the white wyrmling might have put the fire out...but then again, maybe not. Dragons like shinies too.)
 
 The Hall of the Goblin Chief actually *doesn't* have anything shiny or colorful to show off (except the very-recently-acquired Hucrele signet ring) --- all the valuables are hidden away in a locked chest --- making the torches there a bit of a mystery. Does Durnn get chilly? Are some of Durnn's hobgoblins fire hobgoblins (lacking darkvision)?
 
